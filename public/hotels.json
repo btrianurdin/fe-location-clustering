@@ -1,0 +1,3311 @@
+[
+  {
+    "location_id": "0x2e7a57a6a59f1879:0x99cb9ec8068507b0",
+    "name": "Cantya Hotel",
+    "price": "Rp 368K",
+    "rating": "4.1",
+    "latitude": "-7.822135",
+    "longitude": "110.373127"
+  },
+  {
+    "location_id": "0x2e7af755c4e6457f:0x62ddd28303e6f965",
+    "name": "Sayana Homestay",
+    "price": "Rp 144K",
+    "rating": "4.7",
+    "latitude": "-7.7689216",
+    "longitude": "110.3278"
+  },
+  {
+    "location_id": "0x2e7af9178a06d949:0xf400a20c1a78433b",
+    "name": "The Amartya Jogjakarta Hotel",
+    "price": "Rp 496K",
+    "rating": "4.4",
+    "latitude": "-7.7981041",
+    "longitude": "110.3304106"
+  },
+  {
+    "location_id": "0x2e7a5998060881ab:0x8b075f040066ae5",
+    "name": "Urbanview Hotel Near Jogja City Mall",
+    "price": "Rp 221K",
+    "rating": "4.4",
+    "latitude": "-7.7624583",
+    "longitude": "110.3473598"
+  },
+  {
+    "location_id": "0x2e7a57ad651e4885:0x6bbf530298ce16c6",
+    "name": "Ros-In Hotel Yogyakarta",
+    "price": "Rp 370K",
+    "rating": "4.4",
+    "latitude": "-7.8356629",
+    "longitude": "110.3679788"
+  },
+  {
+    "location_id": "0x2e7a5985612f70e5:0x279d5c4b74031c63",
+    "name": "Front One Resort Jogja",
+    "price": "Rp 218K",
+    "rating": "4.2",
+    "latitude": "-7.7624247",
+    "longitude": "110.4160753"
+  },
+  {
+    "location_id": "0x2e7a58490c857281:0x522ab0e31db2f2b9",
+    "name": "Tembok Batu Residence",
+    "price": "Rp 148K",
+    "rating": "4.1",
+    "latitude": "-7.7719236",
+    "longitude": "110.3709246"
+  },
+  {
+    "location_id": "0x2e7a58f3cd833c17:0x7b21ad6728ab5cbd",
+    "name": "The Atrium Hotel and Resort Yogyakarta",
+    "price": "Rp 505K",
+    "rating": "4.5",
+    "latitude": "-7.747552",
+    "longitude": "110.3598573"
+  },
+  {
+    "location_id": "0x2e7a5825e9ffaf5d:0xfe3ad08ccd87a1f2",
+    "name": "Malioboro Prime Hotel Yogyakarta",
+    "price": "Rp 329K",
+    "rating": "4.2",
+    "latitude": "-7.7901215",
+    "longitude": "110.3652674"
+  },
+  {
+    "location_id": "0x2e7a59c6e514a5a3:0xbeca960436f8fe88",
+    "name": "Aveta Hotel Malioboro",
+    "price": "Rp 810K",
+    "rating": "4.6",
+    "latitude": "-7.7938902",
+    "longitude": "110.3658166"
+  },
+  {
+    "location_id": "0x2e7a579de7020d3f:0x93f879c946476968",
+    "name": "Sans Hotel Prime Cailendra Yogyakarta",
+    "price": "Rp 256K",
+    "rating": "4.5",
+    "latitude": "-7.810462",
+    "longitude": "110.377238"
+  },
+  {
+    "location_id": "0x2e7a595036676085:0x6197af2d63ae53bb",
+    "name": "RedDoorz near UMY Yogyakarta 3",
+    "price": "Rp 257K",
+    "rating": "4.6",
+    "latitude": "-7.779963",
+    "longitude": "110.331167"
+  },
+  {
+    "location_id": "0x2e7a582616aee78b:0x225af267f724aee4",
+    "name": "PYRENEES Malioboro Yogyakarta",
+    "price": "Rp 479K",
+    "rating": "4.3",
+    "latitude": "-7.7919044",
+    "longitude": "110.3655788"
+  },
+  {
+    "location_id": "0x2e7a5818b2a70e0f:0xb5519f2473ac173",
+    "name": "Agung Mas Hotel Yogyakarta",
+    "price": "Rp 271K",
+    "rating": "4.3",
+    "latitude": "-7.79143",
+    "longitude": "110.3537798"
+  },
+  {
+    "location_id": "0x2e7a59b0a2f0dcdf:0x8e70e41bfd67662d",
+    "name": "Roemah Kenari",
+    "price": "Rp 664K",
+    "rating": "4.8",
+    "latitude": "-7.7688235",
+    "longitude": "110.3564351"
+  },
+  {
+    "location_id": "0x2e7a571d999b9095:0x13fdde6b20f88d63",
+    "name": "Hotel Caniga Yogyakarta",
+    "price": "Rp 244K",
+    "rating": "4.3",
+    "latitude": "-7.8349441",
+    "longitude": "110.3940116"
+  },
+  {
+    "location_id": "0x2e7a5787a290076b:0x47d38a857feb70fb",
+    "name": "GQ HOTEL YOGYAKARTA",
+    "price": "Rp 476K",
+    "rating": "4.4",
+    "latitude": "-7.7827721",
+    "longitude": "110.4235232"
+  },
+  {
+    "location_id": "0x2e7a5300ca97573b:0x5703ade2415e09c8",
+    "name": "Penginapan Rudi",
+    "price": "Rp 118K",
+    "rating": "4.7",
+    "latitude": "-7.8775176",
+    "longitude": "110.4551504"
+  },
+  {
+    "location_id": "0x2e7a578b1f3ac801:0x9937f45109b57c4",
+    "name": "Cavinton Hotel Yogyakarta by Tritama Hospitality",
+    "price": "Rp 750K",
+    "rating": "4.5",
+    "latitude": "-7.8008378",
+    "longitude": "110.356035"
+  },
+  {
+    "location_id": "0x2e7a581f9513164b:0x2a562cbb3d5af40c",
+    "name": "Forriz Hotel Yogyakarta",
+    "price": "Rp 353K",
+    "rating": "4.5",
+    "latitude": "-7.7954415",
+    "longitude": "110.3535053"
+  },
+  {
+    "location_id": "0x2e7a5825c6f74639:0xe98585e928f8d15f",
+    "name": "Hotel NEO Malioboro",
+    "price": "Rp 702K",
+    "rating": "4.5",
+    "latitude": "-7.7900488",
+    "longitude": "110.3646028"
+  },
+  {
+    "location_id": "0x2e7a5838d29f0f77:0xe699ec0edf8855d3",
+    "name": "Uniq Hotel Yogyakarta",
+    "price": "Rp 292K",
+    "rating": "4.3",
+    "latitude": "-7.7775981",
+    "longitude": "110.3607775"
+  },
+  {
+    "location_id": "0x2e7a596cad4ebdfb:0x6425ce91f35109e1",
+    "name": "La Casa Jogja",
+    "price": "Rp 401K",
+    "rating": "4.6",
+    "latitude": "-7.7660847",
+    "longitude": "110.3919174"
+  },
+  {
+    "location_id": "0x2e7a58285529da09:0x50190d24ea46baa1",
+    "name": "Jogja Backpacker Home",
+    "price": "Rp 150K",
+    "rating": "4.8",
+    "latitude": "-7.7934325",
+    "longitude": "110.3693874"
+  },
+  {
+    "location_id": "0x2e7a59c35cdaa82d:0x6beeb7d059dab6d2",
+    "name": "GRAMM HOTEL by Ambarrukmo (formerly - Grand Ambarrukmo)",
+    "price": "Rp 857K",
+    "rating": "4.7",
+    "latitude": "-7.7836189",
+    "longitude": "110.4005058"
+  },
+  {
+    "location_id": "0x2e7a594cfed65791:0x61aac99d74924d6f",
+    "name": "Waithozz",
+    "price": "Rp 151K",
+    "rating": "4.2",
+    "latitude": "-7.7357011",
+    "longitude": "110.3424331"
+  },
+  {
+    "location_id": "0x2e7a5825c6f74639:0xe98585e928f8d15f",
+    "name": "Hotel NEO Malioboro",
+    "price": "Rp 702K",
+    "rating": "4.5",
+    "latitude": "-7.7900488",
+    "longitude": "110.3646028"
+  },
+  {
+    "location_id": "0x2e7a57dd09ff63dd:0x874c43ae931682fe",
+    "name": "Ohana Suites Yogyakarta",
+    "price": "Rp 765K",
+    "rating": "4.6",
+    "latitude": "-7.8011703",
+    "longitude": "110.3522687"
+  },
+  {
+    "location_id": "0x2e7a58277fe5452f:0x2a9e59d3bc0257fc",
+    "name": "Amaris Hotel Malioboro Jogja",
+    "price": "Rp 439K",
+    "rating": "4.4",
+    "latitude": "-7.7962144",
+    "longitude": "110.3646619"
+  },
+  {
+    "location_id": "0x2e7a59ce01db8983:0xaaacdd0de383695c",
+    "name": "OYO 1118 Artomoro Family Guesthouse",
+    "price": "Rp 144K",
+    "rating": "3.9",
+    "latitude": "-7.7817186",
+    "longitude": "110.3455985"
+  },
+  {
+    "location_id": "0x2e7af80a5594ce17:0xf22b1a52a282bac",
+    "name": "Sans Hotel Absari Yogyakarta",
+    "price": "Rp 221K",
+    "rating": "4.2",
+    "latitude": "-7.8156243",
+    "longitude": "110.328094"
+  },
+  {
+    "location_id": "0x2e7a59cf1b3e3ebd:0x2ae7d5ebc823cf82",
+    "name": "All Nite & Day Hotel Gejayan Yogyakarta",
+    "price": "Rp 299K",
+    "rating": "4.2",
+    "latitude": "-7.7802114",
+    "longitude": "110.3879623"
+  },
+  {
+    "location_id": "0x2e7a579706b7c669:0x7f989497e9fddf90",
+    "name": "Rumah Roso Homestay",
+    "price": "Rp 114K",
+    "rating": "4.5",
+    "latitude": "-7.8135038",
+    "longitude": "110.3633677"
+  },
+  {
+    "location_id": "0x2e7a578712fde2bd:0xba208e0d139f2670",
+    "name": "Front One Cabin Malioboro Jogja",
+    "price": "Rp 217K",
+    "rating": "4.5",
+    "latitude": "-7.7970351",
+    "longitude": "110.3704515"
+  },
+  {
+    "location_id": "0x2e7a59bf9c89c8c1:0x39ae9da2665f215e",
+    "name": "Grand Kangen Hotel Urip Sumoharjo Yogyakarta",
+    "price": "Rp 332K",
+    "rating": "4.3",
+    "latitude": "-7.7829376",
+    "longitude": "110.3869372"
+  },
+  {
+    "location_id": "0x2e7a59ef2e577697:0x47fac60081fb7e01",
+    "name": "Eastparc Hotel Yogyakarta",
+    "price": "Rp 1,28M",
+    "rating": "4.7",
+    "latitude": "-7.7815236",
+    "longitude": "110.4087306"
+  },
+  {
+    "location_id": "0x2e7a59b0a2f0dcdf:0x8e70e41bfd67662d",
+    "name": "Roemah Kenari",
+    "price": "Rp 664K",
+    "rating": "4.8",
+    "latitude": "-7.7688235",
+    "longitude": "110.3564351"
+  },
+  {
+    "location_id": "0x2e7a585be6081a03:0xf6d3b5689e92d5ce",
+    "name": "Crystal Lotus Hotel Yogyakarta",
+    "price": "Rp 453K",
+    "rating": "4.5",
+    "latitude": "-7.75941",
+    "longitude": "110.3624905"
+  },
+  {
+    "location_id": "0x2e7a57986d237273:0xaea7f60a8063ead1",
+    "name": "The Cube Hotel Prawirotaman",
+    "price": "Rp 355K",
+    "rating": "4.2",
+    "latitude": "-7.8158222",
+    "longitude": "110.3681579"
+  },
+  {
+    "location_id": "0x2e7a5846b6f6c0bf:0x3f0c6dcb1b4de33a",
+    "name": "Tara Hotel Yogyakarta",
+    "price": "Rp 369K",
+    "rating": "4.4",
+    "latitude": "-7.771604",
+    "longitude": "110.3608098"
+  },
+  {
+    "location_id": "0x2e7af9f2c37c6f35:0xcf081ac4bb8864b",
+    "name": "Queen Star Hotel",
+    "price": "Rp 152K",
+    "rating": "3.8",
+    "latitude": "-7.8092747",
+    "longitude": "110.2840504"
+  },
+  {
+    "location_id": "0x2e7a594cfed65791:0x61aac99d74924d6f",
+    "name": "Waithozz",
+    "price": "Rp 151K",
+    "rating": "4.2",
+    "latitude": "-7.7357011",
+    "longitude": "110.3424331"
+  },
+  {
+    "location_id": "0x2e7a5839a371ffa7:0x2892903edef1c2c4",
+    "name": "Adya Nalendra Boutique Hotel",
+    "price": "Rp 200K",
+    "rating": "4.1",
+    "latitude": "-7.7793985",
+    "longitude": "110.3640747"
+  },
+  {
+    "location_id": "0x2e7a59c5e32c0a6b:0xdb90f15c57d27419",
+    "name": "Loman Park Hotel Yogyakarta",
+    "price": "Rp 528K",
+    "rating": "4.8",
+    "latitude": "-7.7768375",
+    "longitude": "110.3891646"
+  },
+  {
+    "location_id": "0x2e7a5825c6f74639:0xe98585e928f8d15f",
+    "name": "Hotel NEO Malioboro",
+    "price": "Rp 702K",
+    "rating": "4.5",
+    "latitude": "-7.7900488",
+    "longitude": "110.3646028"
+  },
+  {
+    "location_id": "0x2e7a57dd09ff63dd:0x874c43ae931682fe",
+    "name": "Ohana Suites Yogyakarta",
+    "price": "Rp 765K",
+    "rating": "4.6",
+    "latitude": "-7.8011703",
+    "longitude": "110.3522687"
+  },
+  {
+    "location_id": "0x2e7a58277fe5452f:0x2a9e59d3bc0257fc",
+    "name": "Amaris Hotel Malioboro Jogja",
+    "price": "Rp 439K",
+    "rating": "4.4",
+    "latitude": "-7.7962144",
+    "longitude": "110.3646619"
+  },
+  {
+    "location_id": "0x2e7a59ce01db8983:0xaaacdd0de383695c",
+    "name": "OYO 1118 Artomoro Family Guesthouse",
+    "price": "Rp 144K",
+    "rating": "3.9",
+    "latitude": "-7.7817186",
+    "longitude": "110.3455985"
+  },
+  {
+    "location_id": "0x2e7af80a5594ce17:0xf22b1a52a282bac",
+    "name": "Sans Hotel Absari Yogyakarta",
+    "price": "Rp 221K",
+    "rating": "4.2",
+    "latitude": "-7.8156243",
+    "longitude": "110.328094"
+  },
+  {
+    "location_id": "0x2e7a59cf1b3e3ebd:0x2ae7d5ebc823cf82",
+    "name": "All Nite & Day Hotel Gejayan Yogyakarta",
+    "price": "Rp 299K",
+    "rating": "4.2",
+    "latitude": "-7.7802114",
+    "longitude": "110.3879623"
+  },
+  {
+    "location_id": "0x2e7a59b6e8cb6d63:0x43d2cfc30cdb1478",
+    "name": "D'Paragon Karangmalang Yogyakarta",
+    "price": "Rp 380K",
+    "rating": "4.4",
+    "latitude": "-7.7707655",
+    "longitude": "110.3864532"
+  },
+  {
+    "location_id": "0x2e7a579706b7c669:0x7f989497e9fddf90",
+    "name": "Rumah Roso Homestay",
+    "price": "Rp 114K",
+    "rating": "4.5",
+    "latitude": "-7.8135038",
+    "longitude": "110.3633677"
+  },
+  {
+    "location_id": "0x2e7a578712fde2bd:0xba208e0d139f2670",
+    "name": "Front One Cabin Malioboro Jogja",
+    "price": "Rp 217K",
+    "rating": "4.5",
+    "latitude": "-7.7970351",
+    "longitude": "110.3704515"
+  },
+  {
+    "location_id": "0x2e7a5975c3d2a187:0x8fc96cfd92a05530",
+    "name": "Rumput Resort and Resto Yogyakarta",
+    "price": "Rp 243K",
+    "rating": "4.5",
+    "latitude": "-7.7514474",
+    "longitude": "110.4071005"
+  },
+  {
+    "location_id": "0x2e7a59bf9c89c8c1:0x39ae9da2665f215e",
+    "name": "Grand Kangen Hotel Urip Sumoharjo Yogyakarta",
+    "price": "Rp 332K",
+    "rating": "4.3",
+    "latitude": "-7.7829376",
+    "longitude": "110.3869372"
+  },
+  {
+    "location_id": "0x2e7a59ef2e577697:0x47fac60081fb7e01",
+    "name": "Eastparc Hotel Yogyakarta",
+    "price": "Rp 1,28M",
+    "rating": "4.7",
+    "latitude": "-7.7815236",
+    "longitude": "110.4087306"
+  },
+  {
+    "location_id": "0x2e7a59b0a2f0dcdf:0x8e70e41bfd67662d",
+    "name": "Roemah Kenari",
+    "price": "Rp 664K",
+    "rating": "4.8",
+    "latitude": "-7.7688235",
+    "longitude": "110.3564351"
+  },
+  {
+    "location_id": "0x2e7a585be6081a03:0xf6d3b5689e92d5ce",
+    "name": "Crystal Lotus Hotel Yogyakarta",
+    "price": "Rp 453K",
+    "rating": "4.5",
+    "latitude": "-7.75941",
+    "longitude": "110.3624905"
+  },
+  {
+    "location_id": "0x2e7a57a310539101:0x5f7a486c7fd128ce",
+    "name": "Greenhost Boutique Hotel Prawirotaman",
+    "price": "Rp 584K",
+    "rating": "4.6",
+    "latitude": "-7.8200308",
+    "longitude": "110.3691318"
+  },
+  {
+    "location_id": "0x2e7a57986d237273:0xaea7f60a8063ead1",
+    "name": "The Cube Hotel Prawirotaman",
+    "price": "Rp 355K",
+    "rating": "4.2",
+    "latitude": "-7.8158222",
+    "longitude": "110.3681579"
+  },
+  {
+    "location_id": "0x2e7a58218565df79:0xe998bb484627189c",
+    "name": "Hotel Shafira",
+    "price": "Rp 149K",
+    "rating": "3.9",
+    "latitude": "-7.7917562",
+    "longitude": "110.3568698"
+  },
+  {
+    "location_id": "0x2e7a5833468ccc61:0xe830d094e1db11d7",
+    "name": "Sagan Huis Hotel",
+    "price": "Rp 163K",
+    "rating": "4.3",
+    "latitude": "-7.7811653",
+    "longitude": "110.3776089"
+  },
+  {
+    "location_id": "0x2e7a5846b6f6c0bf:0x3f0c6dcb1b4de33a",
+    "name": "Tara Hotel Yogyakarta",
+    "price": "Rp 369K",
+    "rating": "4.4",
+    "latitude": "-7.771604",
+    "longitude": "110.3608098"
+  },
+  {
+    "location_id": "0x2e7af9f2c37c6f35:0xcf081ac4bb8864b",
+    "name": "Queen Star Hotel",
+    "price": "Rp 152K",
+    "rating": "3.8",
+    "latitude": "-7.8092747",
+    "longitude": "110.2840504"
+  },
+  {
+    "location_id": "0x2e7a570db3360f55:0xb401639763179a81",
+    "name": "Tirta Sanita Hotel & Convention",
+    "price": "Rp 232K",
+    "rating": "3.9",
+    "latitude": "-7.8193415",
+    "longitude": "110.3874312"
+  },
+  {
+    "location_id": "0x2e7a5797932b1d35:0xa06778b409acb18c",
+    "name": "The Alana Hotel & Conference Center Malioboro",
+    "price": "Rp 595K",
+    "rating": "4.7",
+    "latitude": "-7.8152832",
+    "longitude": "110.3655853"
+  },
+  {
+    "location_id": "0x2e7a58269914554f:0x143f9fbd2d04f102",
+    "name": "Grage Bussines Hotel Yogyakarta",
+    "price": "Rp 321K",
+    "rating": "4.3",
+    "latitude": "-7.7913443",
+    "longitude": "110.3622759"
+  },
+  {
+    "location_id": "0x2e7a57e8dc23ad21:0xee2af569ee40106c",
+    "name": "Hotel Diana Jogja",
+    "price": "Rp 258K",
+    "rating": "4.4",
+    "latitude": "-7.8181589",
+    "longitude": "110.3637928"
+  },
+  {
+    "location_id": "0x2e7a59c6e514a5a3:0xbeca960436f8fe88",
+    "name": "Aveta Hotel Malioboro",
+    "price": "Rp 810K",
+    "rating": "4.6",
+    "latitude": "-7.7938902",
+    "longitude": "110.3658166"
+  },
+  {
+    "location_id": "0x2e7a57a3764d144d:0x349a0a7f9e27a691",
+    "name": "Indies Heritage Hotel",
+    "price": "Rp 420K",
+    "rating": "4.3",
+    "latitude": "-7.820561",
+    "longitude": "110.369529"
+  },
+  {
+    "location_id": "0x2e7a578550c1bb21:0xb084ce49e9b2001c",
+    "name": "Ndalem Maharani Guest House",
+    "price": "Rp 342K",
+    "rating": "4.1",
+    "latitude": "-7.8057195",
+    "longitude": "110.3673317"
+  },
+  {
+    "location_id": "0x2e7a583a21fd3921:0x4a1eef696efdc47b",
+    "name": "Yobel Hotel",
+    "price": "Rp 287K",
+    "rating": "4.7",
+    "latitude": "-7.7808366",
+    "longitude": "110.3651413"
+  },
+  {
+    "location_id": "0x2e7a59c536bd2725:0x3b71ad6ff1ee53e5",
+    "name": "Ibis Yogyakarta Adi Sucipto",
+    "price": "Rp 532K",
+    "rating": "4.7",
+    "latitude": "-7.7835154",
+    "longitude": "110.3921003"
+  },
+  {
+    "location_id": "0x2e7a57636a1433a7:0x5922dcc7b8c40f2a",
+    "name": "POP! Hotel Timoho - Yogyakarta",
+    "price": "Rp 288K",
+    "rating": "4.3",
+    "latitude": "-7.7986174",
+    "longitude": "110.3914401"
+  },
+  {
+    "location_id": "0x2e7a5824385c08fd:0xd21b79ff2f93808b",
+    "name": "Royal Malioboro by ASTON",
+    "price": "Rp 950K",
+    "rating": "4.8",
+    "latitude": "-7.7900496",
+    "longitude": "110.36444"
+  },
+  {
+    "location_id": "0x2e7a57c5c0b8a5d1:0xd3027921e0055d2b",
+    "name": "The Fort Hotel",
+    "price": "Rp 240K",
+    "rating": "4.1",
+    "latitude": "-7.8263055",
+    "longitude": "110.3473566"
+  },
+  {
+    "location_id": "0x2e7a5783fcf8ffb7:0xd4d111a9ab0ed1de",
+    "name": "Zest Hotel Yogyakarta",
+    "price": "Rp 368K",
+    "rating": "4.3",
+    "latitude": "-7.7991627",
+    "longitude": "110.373273"
+  },
+  {
+    "location_id": "0x2e7a583b7f8d7f51:0xdacf9c6a6f05e3c2",
+    "name": "Best City Hotel",
+    "price": "Rp 258K",
+    "rating": "4.2",
+    "latitude": "-7.7833924",
+    "longitude": "110.3609553"
+  },
+  {
+    "location_id": "0x2e7a57a52a270f3b:0x27c8c76932707b50",
+    "name": "Lynn Hotel By Horison",
+    "price": "Rp 613K",
+    "rating": "4.3",
+    "latitude": "-7.8244587",
+    "longitude": "110.3668535"
+  },
+  {
+    "location_id": "0x2e7a59b441155d83:0x47638a3c6884e8e8",
+    "name": "Aveon Hotel Yogyakarta by Daphna International",
+    "price": "Rp 631K",
+    "rating": "4.5",
+    "latitude": "-7.7639261",
+    "longitude": "110.422919"
+  },
+  {
+    "location_id": "0x2e7a596a9840f143:0x9141a3feaec23d12",
+    "name": "Sentosa Residence Jogjakarta",
+    "price": "Rp 104K",
+    "rating": "2.4",
+    "latitude": "-7.7683325",
+    "longitude": "110.3403581"
+  },
+  {
+    "location_id": "0x2e7a59bd61141207:0xb495b6c077c63007",
+    "name": "Mashbrow Hostel",
+    "price": "Rp 100K",
+    "rating": "4.4",
+    "latitude": "-7.764837",
+    "longitude": "110.4018554"
+  },
+  {
+    "location_id": "0x2e7a59a6aa3fdb71:0x1f9aa034bae44b30",
+    "name": "Lafayette Boutique Hotel",
+    "price": "Rp 654K",
+    "rating": "4.6",
+    "latitude": "-7.7594806",
+    "longitude": "110.3873357"
+  },
+  {
+    "location_id": "0x2e7a5758bd2c6165:0x7a02d0da4eea59ad",
+    "name": "Urbanview Le Reno Inn Wirobrajan By RedDoorz",
+    "price": "Rp 203K",
+    "rating": "4.5",
+    "latitude": "-7.8008871",
+    "longitude": "110.3506105"
+  },
+  {
+    "location_id": "0x2e7a582631c6de13:0xfdaee1e352e0e0f2",
+    "name": "Hotel Noola Malioboro",
+    "price": "Rp 337K",
+    "rating": "4.7",
+    "latitude": "-7.8156662",
+    "longitude": "110.3685631"
+  },
+  {
+    "location_id": "0x2e7a58287b973fa5:0x32ffc0f76444a02e",
+    "name": "Malioboro Garden Hotel",
+    "price": "Rp 217K",
+    "rating": "4.2",
+    "latitude": "-7.794203",
+    "longitude": "110.366817"
+  },
+  {
+    "location_id": "0x2e7a57bc193b4f07:0x77239a176a5dd331",
+    "name": "Abrakadabra Homestay",
+    "price": "Rp 316K",
+    "rating": "4.8",
+    "latitude": "-7.814259",
+    "longitude": "110.3679161"
+  },
+  {
+    "location_id": "0x2e7a59809784abcd:0x6d5476201593eb8d",
+    "name": "PALAGAN HUIS",
+    "price": "Rp 444K",
+    "rating": "4.9",
+    "latitude": "-7.7339003",
+    "longitude": "110.3784915"
+  },
+  {
+    "location_id": "0x2e7a57a0067eac1b:0x3e0508a431de0245",
+    "name": "The Journey Hotel",
+    "price": "Rp 283K",
+    "rating": "4.4",
+    "latitude": "-7.8165934",
+    "longitude": "110.3780788"
+  },
+  {
+    "location_id": "0x2e7a582e2af953c9:0x53c1a5a7040ff1e7",
+    "name": "favehotel Malioboro Yogyakarta",
+    "price": "Rp 403K",
+    "rating": "4.5",
+    "latitude": "-7.7856786",
+    "longitude": "110.3699806"
+  },
+  {
+    "location_id": "0x2e7a5919691fb9ff:0x94dae401844f3a0c",
+    "name": "OYO 1431 Travel-inn",
+    "price": "Rp 124K",
+    "rating": "2.2",
+    "latitude": "-7.7687845",
+    "longitude": "110.3602447"
+  },
+  {
+    "location_id": "0x2e7a560c85870133:0x7c75149ee345d6ff",
+    "name": "dOmah Yogya Hotel",
+    "price": "Rp 691K",
+    "rating": "4.5",
+    "latitude": "-7.8714954",
+    "longitude": "110.3534843"
+  },
+  {
+    "location_id": "0x2e7a584476c30d61:0x4176ccdbd853fc4e",
+    "name": "Grand Serela Yogyakarta",
+    "price": "Rp 481K",
+    "rating": "4.3",
+    "latitude": "-7.7687444",
+    "longitude": "110.3611285"
+  },
+  {
+    "location_id": "0x2e7a594ef4066853:0x128a19633173fb3c",
+    "name": "Next Hotel Yogyakarta",
+    "price": "Rp 450K",
+    "rating": "4.3",
+    "latitude": "-7.781267",
+    "longitude": "110.418458"
+  },
+  {
+    "location_id": "0x2e7a58282b65d837:0x56a80fa0d35a2d4f",
+    "name": "OYO 2041 Griya Aneka",
+    "price": "Rp 98,3K",
+    "rating": "3.0",
+    "latitude": "-7.8011734",
+    "longitude": "110.3552383"
+  },
+  {
+    "location_id": "0x2e7a57644da187d5:0xb340aa8f67c05084",
+    "name": "favehotel Kusumanegara",
+    "price": "Rp 489K",
+    "rating": "4.6",
+    "latitude": "-7.8012486",
+    "longitude": "110.3882481"
+  },
+  {
+    "location_id": "0x2e7a58e45a83ac1d:0xc2f9de616b8befa9",
+    "name": "Sofia Boutique Residence",
+    "price": "Rp 673K",
+    "rating": "4.6",
+    "latitude": "-7.7411526",
+    "longitude": "110.3704209"
+  },
+  {
+    "location_id": "0x2e7a5a0db1aa65c9:0xe136937678633639",
+    "name": "OYO 586 Hotel Wijaya",
+    "price": "Rp 126K",
+    "rating": "3.9",
+    "latitude": "-7.7837177",
+    "longitude": "110.4460897"
+  },
+  {
+    "location_id": "0x2e7a5763615c8987:0x1bcc5faf6f27b644",
+    "name": "Gaia Cosmo Hotel",
+    "price": "Rp 841K",
+    "rating": "4.6",
+    "latitude": "-7.7989469",
+    "longitude": "110.3929241"
+  },
+  {
+    "location_id": "0x2e7a597d75ceb3ed:0xec083d54f40ab758",
+    "name": "Cempoko Mulyo Syariah",
+    "price": "Rp 143K",
+    "rating": "4.7",
+    "latitude": "-7.783132",
+    "longitude": "110.348127"
+  },
+  {
+    "location_id": "0x2e7a577734947fe5:0x1dec0d2b2b20694a",
+    "name": "Tirtodipuran Hotel",
+    "price": "Rp 543K",
+    "rating": "4.8",
+    "latitude": "-7.8177724",
+    "longitude": "110.3632301"
+  },
+  {
+    "location_id": "0x2e7a59c8bbdc6039:0x4fbf04693c1efa99",
+    "name": "Remen Room Bed & Breakfast",
+    "price": "Rp 276K",
+    "rating": "4.6",
+    "latitude": "-7.778562",
+    "longitude": "110.389315"
+  },
+  {
+    "location_id": "0x2e7a5817849f3d09:0x5353186e3619ce9c",
+    "name": "GRIYAPius_HOMESTAY",
+    "price": "Rp 92,9K",
+    "rating": "4.9",
+    "latitude": "-7.7858403",
+    "longitude": "110.3521473"
+  },
+  {
+    "location_id": "0x2e7a57bc836fafad:0x1e8657a0638152c7",
+    "name": "The Grand Palace Hotel",
+    "price": "Rp 308K",
+    "rating": "4.2",
+    "latitude": "-7.821589",
+    "longitude": "110.3642615"
+  },
+  {
+    "location_id": "0x2e7a59d895b6c86d:0xc6247c43d5db79ea",
+    "name": "Aveon Express by Daphna International",
+    "price": "Rp 329K",
+    "rating": "4.3",
+    "latitude": "-7.7929461",
+    "longitude": "110.394766"
+  },
+  {
+    "location_id": "0x2e7a590b62cdfcd3:0xdaeea7dad208473d",
+    "name": "Grand Senyum Hotel Yogyakarta",
+    "price": "Rp 680K",
+    "rating": "4.6",
+    "latitude": "-7.782991",
+    "longitude": "110.36537"
+  },
+  {
+    "location_id": "0x2e7a582727f8a445:0x93f7ddbe8c30a47a",
+    "name": "ibis Styles Yogyakarta",
+    "price": "Rp 643K",
+    "rating": "4.4",
+    "latitude": "-7.793898",
+    "longitude": "110.3614602"
+  },
+  {
+    "location_id": "0x2e7a5a5e45ca01ef:0x1de6d4fcea0bc088",
+    "name": "OYO 91785 Hotel Srikandi Kalasan",
+    "price": "Rp 172K",
+    "rating": "3.6",
+    "latitude": "-7.768712",
+    "longitude": "110.469742"
+  },
+  {
+    "location_id": "0x2e7a59cb22f29457:0x480b52a7ca3e1029",
+    "name": "h-Boutique Hotel Jogjakarta",
+    "price": "Rp 338K",
+    "rating": "4.3",
+    "latitude": "-7.781765",
+    "longitude": "110.3790782"
+  },
+  {
+    "location_id": "0x2e7a5905f7cfc329:0xea2fa699231e3d5b",
+    "name": "Carani Hotel",
+    "price": "Rp 289K",
+    "rating": "4.3",
+    "latitude": "-7.7801058",
+    "longitude": "110.3793177"
+  },
+  {
+    "location_id": "0x2e783ffff8aeead3:0xb9c77ab7663ae14d",
+    "name": "The Phoenix Hotel Yogyakarta - MGallery",
+    "price": "Rp 1,12M",
+    "rating": "4.7",
+    "latitude": "-7.7826227",
+    "longitude": "110.3685066"
+  },
+  {
+    "location_id": "0x2e7a5827b61f6e43:0xc07b38ec5cb1f280",
+    "name": "SPOT ON 91888 The Packer Lodge Yogyakarta (Bunk Bed)",
+    "price": "Rp 155K",
+    "rating": "4.4",
+    "latitude": "-7.7940929",
+    "longitude": "110.3650919"
+  },
+  {
+    "location_id": "0x2e7af8733e2ca48b:0x95727eca8e3032be",
+    "name": "De'gadri Ndalem Hotel",
+    "price": "Rp 162K",
+    "rating": "4.1",
+    "latitude": "-7.8198508",
+    "longitude": "110.323627"
+  },
+  {
+    "location_id": "0x2e7a59f194415e55:0xc04a13d0a5bb3485",
+    "name": "SPOT ON 2881 Nabila Homestay",
+    "price": "Rp 64,5K",
+    "rating": "1.8",
+    "latitude": "-7.742432",
+    "longitude": "110.3942901"
+  },
+  {
+    "location_id": "0x2e7a5827ebaeaaab:0xa7badf5804f1716b",
+    "name": "Bobobox Pods Malioboro",
+    "price": "Rp 203K",
+    "rating": "4.6",
+    "latitude": "-7.7949893",
+    "longitude": "110.3653403"
+  },
+  {
+    "location_id": "0x2e7a583a07ed52f1:0x1216ec2b5ec22a30",
+    "name": "RedDoorz near Tugu Yogyakarta",
+    "price": "Rp 211K",
+    "rating": "3.6",
+    "latitude": "-7.7810414",
+    "longitude": "110.3668176"
+  },
+  {
+    "location_id": "0x2e7a59392b07dfe7:0xbc3ddb4be5b183ae",
+    "name": "D'Paragon Malioboro",
+    "price": "Rp 552K",
+    "rating": "4.6",
+    "latitude": "-7.7882914",
+    "longitude": "110.3642141"
+  },
+  {
+    "location_id": "0x2e7a5889bd09c57d:0xb52043ef4f11c95e",
+    "name": "Griya Alisha",
+    "price": "Rp 140K",
+    "rating": "4.1",
+    "latitude": "-7.7571853",
+    "longitude": "110.3463048"
+  },
+  {
+    "location_id": "0x2e7a580de15a3ec9:0x1391534af1c625ae",
+    "name": "Hotel Star 88",
+    "price": "Rp 345K",
+    "rating": "3.9",
+    "latitude": "-7.7807371",
+    "longitude": "110.3428098"
+  },
+  {
+    "location_id": "0x2e7a5825d19146b1:0x7b19a5036ccdd91e",
+    "name": "Andrea Hotel",
+    "price": "Rp 145K",
+    "rating": "4.4",
+    "latitude": "-7.7904635",
+    "longitude": "110.3640537"
+  },
+  {
+    "location_id": "0x2e7a593e7bd8deab:0xea56b04f1d63a176",
+    "name": "éL Hotel Yogyakarta Malioboro",
+    "price": "Rp 884K",
+    "rating": "4.6",
+    "latitude": "-7.7938589",
+    "longitude": "110.3649049"
+  },
+  {
+    "location_id": "0x2e7a8d1f5e8f6cf5:0xade01dd8bff24786",
+    "name": "Janur Bungalow",
+    "price": "Rp 726K",
+    "rating": "4.7",
+    "latitude": "-7.61965",
+    "longitude": "110.183226"
+  },
+  {
+    "location_id": "0x2e7a837788439257:0x898afd30f9fb9ea",
+    "name": "Front One Resort Indraloka Temanggung",
+    "price": "Rp 344K",
+    "rating": "4.1",
+    "latitude": "-7.3283819",
+    "longitude": "110.1987615"
+  },
+  {
+    "location_id": "0x2e7a9e6c5f2b53bf:0xccf8223c0f2a860c",
+    "name": "Dieng Kledung Pass Hotel",
+    "price": "Rp 363K",
+    "rating": "4.3",
+    "latitude": "-7.3425706",
+    "longitude": "110.0288491"
+  },
+  {
+    "location_id": "0x2e7a8374693d657d:0x4f8275988597184b",
+    "name": "Aliyana Hotel & Resorts",
+    "price": "Rp 388K",
+    "rating": "4.4",
+    "latitude": "-7.3133915",
+    "longitude": "110.1780413"
+  },
+  {
+    "location_id": "0x2e7a857b811b5165:0xc6ffbae41ea0d5b1",
+    "name": "Villa Sumbing Indah",
+    "price": "Rp 550K",
+    "rating": "4.4",
+    "latitude": "-7.4546864",
+    "longitude": "110.157112"
+  },
+  {
+    "location_id": "0x2e7a8d266c137d3b:0x1f855e99345d47db",
+    "name": "Hotel Le Temple Borobudur",
+    "price": "Rp 3,32M",
+    "rating": "4.8",
+    "latitude": "-7.6088138",
+    "longitude": "110.1965644"
+  },
+  {
+    "location_id": "0x2e7ab5ccfa977a47:0xb9f19a88d870c887",
+    "name": "Trio Azana Style Hotel Kebumen",
+    "price": "Rp 587K",
+    "rating": "4.7",
+    "latitude": "-7.6643058",
+    "longitude": "109.6601502"
+  },
+  {
+    "location_id": "0x2e7aa9f630a4fabb:0xcd9040fba3709f68",
+    "name": "Hotel Garuda near Alun Alun Banjarnegara Mitra RedDoorz",
+    "price": "Rp 105K",
+    "rating": "3.3",
+    "latitude": "-7.3949557",
+    "longitude": "109.6988859"
+  },
+  {
+    "location_id": "0x2e7a9f36523dbfe7:0x3b59e0767fa65073",
+    "name": "Singgasana Villa & Resto",
+    "price": "Rp 412K",
+    "rating": "4.5",
+    "latitude": "-7.3730117",
+    "longitude": "109.9602991"
+  },
+  {
+    "location_id": "0x2e7a85f683aaa91f:0x3241e32f96362409",
+    "name": "Hotel Wijaya Magelang",
+    "price": "Rp 84,1K",
+    "rating": "3.7",
+    "latitude": "-7.4713822",
+    "longitude": "110.2180274"
+  },
+  {
+    "location_id": "0x2e7a8246b9a2da7d:0x9c6939d1d7a45fac",
+    "name": "Hotel Kintamani",
+    "price": "Rp 148K",
+    "rating": "3.5",
+    "latitude": "-7.3370455",
+    "longitude": "110.2071369"
+  },
+  {
+    "location_id": "0x2e7078480e86ea23:0x98529784303dfb53",
+    "name": "SPOT ON 91694 Hotel Rama Chandra",
+    "price": "Rp 38,8K",
+    "rating": "3.7",
+    "latitude": "-7.2820933",
+    "longitude": "110.1652268"
+  },
+  {
+    "location_id": "0x2e7aa1c1b09d0d9b:0x88922eb45fb818ae",
+    "name": "Hotel Dafam Wonosobo",
+    "price": "Rp 379K",
+    "rating": "4.3",
+    "latitude": "-7.349077",
+    "longitude": "109.9065794"
+  },
+  {
+    "location_id": "0x2e7a8ced784b24b5:0x2d0f6857cf583f31",
+    "name": "Manohara Borobudur",
+    "price": "Rp 1,7M",
+    "rating": "4.4",
+    "latitude": "-7.6092105",
+    "longitude": "110.2070486"
+  },
+  {
+    "location_id": "0x2e7a8f68a117844d:0x7f0f3371afc09837",
+    "name": "Puri Asri Magelang Hotel & Resort",
+    "price": "Rp 634K",
+    "rating": "4.6",
+    "latitude": "-7.484947",
+    "longitude": "110.2092369"
+  },
+  {
+    "location_id": "0x2e7aa187756ccec3:0xf08cbb319471b3ab",
+    "name": "Front One Harvest Hotel Wonosobo",
+    "price": "Rp 644K",
+    "rating": "4.6",
+    "latitude": "-7.3648688",
+    "longitude": "109.9015583"
+  },
+  {
+    "location_id": "0x2e7aa9130762e0ed:0x5e5aab1356f10d0b",
+    "name": "Surya Yudha Park",
+    "price": "Rp 397K",
+    "rating": "4.3",
+    "latitude": "-7.389256",
+    "longitude": "109.690806"
+  },
+  {
+    "location_id": "0x2e700deb516eb453:0x6122f18838747cd0",
+    "name": "Diengbuun",
+    "price": "Rp 476K",
+    "rating": "4.6",
+    "latitude": "-7.2102705",
+    "longitude": "109.9095363"
+  },
+  {
+    "location_id": "0x2e7aa9088dc8fcf9:0x19d943eb8a68af0b",
+    "name": "FOX Harris Hotel & Conventions Banjarnegara",
+    "price": "Rp 486K",
+    "rating": "4.7",
+    "latitude": "-7.3914152",
+    "longitude": "109.7339813"
+  },
+  {
+    "location_id": "0x2e7a8f1572bd298f:0xe7271c7a5af0f77c",
+    "name": "Hotel Safira Magelang",
+    "price": "Rp 450K",
+    "rating": "4.2",
+    "latitude": "-7.4973875",
+    "longitude": "110.2102827"
+  },
+  {
+    "location_id": "0x2e7a8d1f9be64c41:0xb366c07e2a7a02a6",
+    "name": "Perta Prana Amarta",
+    "price": "Rp 451K",
+    "rating": "5.0",
+    "latitude": "-7.5794898",
+    "longitude": "110.1945726"
+  },
+  {
+    "location_id": "0x2e7a8f1572bd298f:0xe7271c7a5af0f77c",
+    "name": "Hotel Safira Magelang",
+    "price": "Rp 450K",
+    "rating": "4.2",
+    "latitude": "-7.4973875",
+    "longitude": "110.2102827"
+  },
+  {
+    "location_id": "0x2e7aa187756ccec3:0xf08cbb319471b3ab",
+    "name": "Front One Harvest Hotel Wonosobo",
+    "price": "Rp 644K",
+    "rating": "4.6",
+    "latitude": "-7.3648688",
+    "longitude": "109.9015583"
+  },
+  {
+    "location_id": "0x2e7aa06c4e10ed1d:0x8f3ee8c8f739c0f7",
+    "name": "Joglo Mudal Wonosobo",
+    "price": "Rp 605K",
+    "rating": "4.6",
+    "latitude": "-7.3376468",
+    "longitude": "109.9220937"
+  },
+  {
+    "location_id": "0x2e7ab52c1135a4c1:0xb2c402b361546dce",
+    "name": "Candisari Hotel & Resto",
+    "price": "Rp 278K",
+    "rating": "4.3",
+    "latitude": "-7.6442797",
+    "longitude": "109.5811052"
+  },
+  {
+    "location_id": "0x2e700d92c8106a8f:0x53f09e7789064872",
+    "name": "Godieng Cabin",
+    "price": "Rp 1,14M",
+    "rating": "4.0",
+    "latitude": "-7.2120834",
+    "longitude": "109.9077802"
+  },
+  {
+    "location_id": "0x2e7a8d7b3dea8d25:0x1d96d55c375e329c",
+    "name": "Balkondes Saka Pitu Tegalarum",
+    "price": "Rp 1,23M",
+    "rating": "4.4",
+    "latitude": "-7.5912745",
+    "longitude": "110.1611704"
+  },
+  {
+    "location_id": "0x2e700deb5ca73f15:0x28c41f39b5a3f20c",
+    "name": "RedDoorz @ Gerbang Dieng Plateau Area",
+    "price": "Rp 183K",
+    "rating": "4.4",
+    "latitude": "-7.2161839",
+    "longitude": "109.9300566"
+  },
+  {
+    "location_id": "0x2e7aa90b3ea05981:0x43683dd355a0d9bc",
+    "name": "Homestay Griya Sawah Gunung",
+    "price": "Rp 134K",
+    "rating": "4.7",
+    "latitude": "-7.3807466",
+    "longitude": "109.693278"
+  },
+  {
+    "location_id": "0x2e7a8cf36ff52125:0xb7448ec77682db3f",
+    "name": "Wahid Borobudur",
+    "price": "Rp 485K",
+    "rating": "4.3",
+    "latitude": "-7.6035598",
+    "longitude": "110.2090583"
+  },
+  {
+    "location_id": "0x2e7a8ced784b24b5:0x2d0f6857cf583f31",
+    "name": "Manohara Borobudur",
+    "price": "Rp 1,7M",
+    "rating": "4.4",
+    "latitude": "-7.6092105",
+    "longitude": "110.2070486"
+  },
+  {
+    "location_id": "0x2e700f574925a469:0x9dce5308f8b82d88",
+    "name": "Satha villa Dieng",
+    "price": "Rp 1,1M",
+    "rating": "4.6",
+    "latitude": "-7.1877649",
+    "longitude": "109.8525752"
+  },
+  {
+    "location_id": "0x2e7aa1cf89909b0d:0xbfcc908627886620",
+    "name": "Abhaya Villa",
+    "price": "Rp 1,5M",
+    "rating": "4.2",
+    "latitude": "-7.3726752",
+    "longitude": "109.9005767"
+  },
+  {
+    "location_id": "0x2e7aa0fef587e263:0x3ba9b6e8eb274259",
+    "name": "Urbanview Hotel Nostos Wonosobo by RedDoorz",
+    "price": "Rp 233K",
+    "rating": "4.1",
+    "latitude": "-7.3641244",
+    "longitude": "109.897855"
+  },
+  {
+    "location_id": "0x2e7aa057692e2227:0xdb8fa20d8eeb6b24",
+    "name": "C.R.A Resto,Cafe,Family Karaoke",
+    "price": "Rp 386K",
+    "rating": "4.0",
+    "latitude": "-7.3565632",
+    "longitude": "109.9062579"
+  },
+  {
+    "location_id": "0x2e700d6d742dc079:0xa0e7762674986185",
+    "name": "Cabin & villa Madinna Dieng",
+    "price": "Rp 759K",
+    "rating": "5.0",
+    "latitude": "-7.2135372",
+    "longitude": "109.9083996"
+  },
+  {
+    "location_id": "0x2e7a8d2628041405:0xec5ecc1903f27215",
+    "name": "Mudhia Homestay",
+    "price": "Rp 190K",
+    "rating": "4.9",
+    "latitude": "-7.5893826",
+    "longitude": "110.1610548"
+  },
+  {
+    "location_id": "0x2e700b604868d5af:0x66e5244a3ed81034",
+    "name": "Bagas Luxury Camp",
+    "price": "Rp 600K",
+    "rating": "4.8",
+    "latitude": "-7.2626546",
+    "longitude": "109.9210252"
+  },
+  {
+    "location_id": "0x2e700dceaa4ea7ed:0x5a8a5ac31be9046c",
+    "name": "Homestay bintang sikunir",
+    "price": "Rp 390K",
+    "rating": "3.3",
+    "latitude": "-7.2332078",
+    "longitude": "109.9116204"
+  },
+  {
+    "location_id": "0x2e7a8d0b16290a8f:0xadbb7725c3aa00ea",
+    "name": "Balkondes Ngargogondo The Gade Village",
+    "price": "Rp 484K",
+    "rating": "4.6",
+    "latitude": "-7.6243622",
+    "longitude": "110.2103751"
+  },
+  {
+    "location_id": "0x2e700cffe6e78e83:0x9e814fffffe8010e",
+    "name": "Tani Jiwo Hostel",
+    "price": "Rp 240K",
+    "rating": "4.5",
+    "latitude": "-7.2030537",
+    "longitude": "109.9032218"
+  },
+  {
+    "location_id": "0x2e700b604868d5af:0x66e5244a3ed81034",
+    "name": "Bagas Luxury Camp",
+    "price": "Rp 600K",
+    "rating": "4.8",
+    "latitude": "-7.2626546",
+    "longitude": "109.9210252"
+  },
+  {
+    "location_id": "0x2e700c854ece818b:0x2a5da250aa7cf2b4",
+    "name": "Homestay Embun Pagi 2",
+    "price": "Rp 231K",
+    "rating": "4.0",
+    "latitude": "-7.233684",
+    "longitude": "109.9134091"
+  },
+  {
+    "location_id": "0x2e700dceaa4ea7ed:0x5a8a5ac31be9046c",
+    "name": "Homestay bintang sikunir",
+    "price": "Rp 390K",
+    "rating": "3.3",
+    "latitude": "-7.2332078",
+    "longitude": "109.9116204"
+  },
+  {
+    "location_id": "0x2e7a8d0b16290a8f:0xadbb7725c3aa00ea",
+    "name": "Balkondes Ngargogondo The Gade Village",
+    "price": "Rp 484K",
+    "rating": "4.6",
+    "latitude": "-7.6243622",
+    "longitude": "110.2103751"
+  },
+  {
+    "location_id": "0x2e707562485cdfe5:0x104e30cfe026da95",
+    "name": "D'KOES HOME STAY",
+    "price": "Rp 428K",
+    "rating": "4.8",
+    "latitude": "-7.2670078",
+    "longitude": "109.9715731"
+  },
+  {
+    "location_id": "0x2e700cffe6e78e83:0x9e814fffffe8010e",
+    "name": "Tani Jiwo Hostel",
+    "price": "Rp 240K",
+    "rating": "4.5",
+    "latitude": "-7.2030537",
+    "longitude": "109.9032218"
+  },
+  {
+    "location_id": "0x2e7ab52c3f65691b:0x1d1d331db16de35",
+    "name": "Aman Hotel",
+    "price": "Rp 192K",
+    "rating": "4.1",
+    "latitude": "-7.6276251",
+    "longitude": "109.5675546"
+  },
+  {
+    "location_id": "0x2e7a8d32c2bd4335:0xaac994e5a54adabe",
+    "name": "Balkondes Kembanglimus",
+    "price": "Rp 369K",
+    "rating": "4.3",
+    "latitude": "-7.5969876",
+    "longitude": "110.1823404"
+  },
+  {
+    "location_id": "0x2e7a8fc35f1e3bcd:0xbfcd087fcc6c00cf",
+    "name": "Nareswari GuestHouse",
+    "price": "Rp 131K",
+    "rating": "4.3",
+    "latitude": "-7.5036828",
+    "longitude": "110.1952007"
+  },
+  {
+    "location_id": "0x2e7aa1a10f79b6d5:0x9e7304d1cfe271b2",
+    "name": "HOMESTAY NGASO DALEM",
+    "price": "Rp 175K",
+    "rating": "4.5",
+    "latitude": "-7.3576622",
+    "longitude": "109.9052971"
+  },
+  {
+    "location_id": "0x2e7a8ced2558ac0f:0xd7666dff904cf1ca",
+    "name": "Watu Agung Guesthouse and Resto",
+    "price": "Rp 347K",
+    "rating": "4.3",
+    "latitude": "-7.608381",
+    "longitude": "110.2093001"
+  },
+  {
+    "location_id": "0x2e7a8dd067d6d861:0x251091c369feddf8",
+    "name": "Balkondes Majaksingi Jasamarga",
+    "price": "Rp 540K",
+    "rating": "4.5",
+    "latitude": "-7.6242291",
+    "longitude": "110.2032726"
+  },
+  {
+    "location_id": "0x2e7a8cfb7841476f:0x3b850d9d05724dcf",
+    "name": "Plataran Borobudur Resort & Spa",
+    "price": "Rp 4,59M",
+    "rating": "4.7",
+    "latitude": "-7.6062789",
+    "longitude": "110.1920929"
+  },
+  {
+    "location_id": "0x2e7a8fcaed246371:0x8fab8c4d3c819e48",
+    "name": "The Cabin Corner",
+    "price": "Rp 495K",
+    "rating": "5.0",
+    "latitude": "-7.5043871",
+    "longitude": "110.2037671"
+  },
+  {
+    "location_id": "0x2e7a8d044c5f3055:0xbb82f47409d8edcf",
+    "name": "Hotel Cempaka Villa 2 Borobudur",
+    "price": "Rp 333K",
+    "rating": "4.2",
+    "latitude": "-7.6088088",
+    "longitude": "110.2112242"
+  },
+  {
+    "location_id": "0x2e7aa0fff61d94bd:0xa18166c1ca6bb797",
+    "name": "Hotel Parama",
+    "price": "Rp 200K",
+    "rating": "3.9",
+    "latitude": "-7.3659888",
+    "longitude": "109.9014606"
+  },
+  {
+    "location_id": "0x2e7a8dad7719e2d7:0x5960687ab81da482",
+    "name": "NURUDIN HOUSE",
+    "price": "Rp 186K",
+    "rating": "4.3",
+    "latitude": "-7.5897337",
+    "longitude": "110.185032"
+  },
+  {
+    "location_id": "0x2e700d6297daf12d:0x855d0e754df096a1",
+    "name": "Villa Dringo Syariah",
+    "price": "Rp 883K",
+    "rating": "4.8",
+    "latitude": "-7.2003928",
+    "longitude": "109.9066794"
+  },
+  {
+    "location_id": "0x2e700b279a68465f:0x493e2d9b7cd269cb",
+    "name": "Harumi Dieng",
+    "price": "Rp 200K",
+    "rating": "4.7",
+    "latitude": "-7.2820513",
+    "longitude": "109.9354496"
+  },
+  {
+    "location_id": "0x2e7aa1cdf7f71e19:0x963a4fe60fe39bf1",
+    "name": "Aurora Guest House Wonosobo",
+    "price": "Rp 250K",
+    "rating": "4.3",
+    "latitude": "-7.3609246",
+    "longitude": "109.9099177"
+  },
+  {
+    "location_id": "0x2e700d168819913b:0x6e903f5177f61c6c",
+    "name": "HOMESTAY ANEMON",
+    "price": "Rp 370K",
+    "rating": "4.6",
+    "latitude": "-7.2025508",
+    "longitude": "109.9058193"
+  },
+  {
+    "location_id": "0x2e7a8d826e7d8e73:0xa87ddc7f793b4fae",
+    "name": "The Amrta Borobudur",
+    "price": "Rp 424K",
+    "rating": "4.4",
+    "latitude": "-7.6116757",
+    "longitude": "110.2084641"
+  },
+  {
+    "location_id": "0x2e7a8d10a36476a9:0x1b57020e32dfeb96",
+    "name": "HOTEL DOMAN BOROBUDUR",
+    "price": "Rp 824K",
+    "rating": "4.7",
+    "latitude": "-7.6085266",
+    "longitude": "110.20975"
+  },
+  {
+    "location_id": "0x2e7a8dbb8c543a5f:0x9379dc2d6772447c",
+    "name": "Gopalan Borobudur",
+    "price": "Rp 781K",
+    "rating": "4.4",
+    "latitude": "-7.6129194",
+    "longitude": "110.2026391"
+  },
+  {
+    "location_id": "0x2e700d533f6d8375:0x7da7f2fd9ddbe19b",
+    "name": "Dieng Plateau GuestHouse",
+    "price": "Rp 154K",
+    "rating": "4.3",
+    "latitude": "-7.2042434",
+    "longitude": "109.9114724"
+  },
+  {
+    "location_id": "0x2e700da1ed63a423:0x7aa578ef7714c683",
+    "name": "Tiga Mahkota Homestay",
+    "price": "Rp 432K",
+    "rating": "4.4",
+    "latitude": "-7.2023202",
+    "longitude": "109.90834"
+  },
+  {
+    "location_id": "0x2e700f8ede232295:0x249c51341e679c21",
+    "name": "AINUN VILLA DIENG",
+    "price": "Rp 1,15M",
+    "rating": "4.8",
+    "latitude": "-7.2114224",
+    "longitude": "109.8348159"
+  },
+  {
+    "location_id": "0x2e700d39138223d9:0x93eccbb68c12ace8",
+    "name": "Taman Syalendra Dieng",
+    "price": "Rp 963K",
+    "rating": "4.6",
+    "latitude": "-7.2132101",
+    "longitude": "109.9133591"
+  },
+  {
+    "location_id": "0x2e7aa171bb60e201:0x2bbc732c753f8ddc",
+    "name": "The Cabin Tanjung Hotel",
+    "price": "Rp 472K",
+    "rating": "4.2",
+    "latitude": "-7.3938629",
+    "longitude": "109.8922108"
+  },
+  {
+    "location_id": "0x2e7a8d1c6875e031:0x5327bd3805831ff8",
+    "name": "Borobudur Luxury Glamping",
+    "price": "Rp 582K",
+    "rating": "5.0",
+    "latitude": "-7.6130158",
+    "longitude": "110.1856254"
+  },
+  {
+    "location_id": "0x2e7aa1c5da7c830b:0xbea055e33fba3ad1",
+    "name": "Villa Sindoro Village",
+    "price": "Rp 690K",
+    "rating": "4.8",
+    "latitude": "-7.3586034",
+    "longitude": "109.9320343"
+  },
+  {
+    "location_id": "0x2e700adf32f068a1:0x482ecbe83ee851c0",
+    "name": "Urbanview Hotel Umbrella Dieng by RedDoorz",
+    "price": "Rp 313K",
+    "rating": "4.3",
+    "latitude": "-7.2848122",
+    "longitude": "109.9315518"
+  },
+  {
+    "location_id": "0x2e7a8d284241baad:0xf618656809ad26c9",
+    "name": "Khanaya Hotel & Cafe",
+    "price": "Rp 780K",
+    "rating": "4.6",
+    "latitude": "-7.6153647",
+    "longitude": "110.2072856"
+  },
+  {
+    "location_id": "0x2e7aa145d5af04e9:0x89af2bad109d11c7",
+    "name": "RedDoorz Syariah near Terminal Mendolo Wonosobo 2",
+    "price": "Rp 194K",
+    "rating": "4.7",
+    "latitude": "-7.3670259",
+    "longitude": "109.9199882"
+  },
+  {
+    "location_id": "0x2e700bb7ef44016f:0x7a5e776ab4bb255e",
+    "name": "RedDoorz near Desa Wisata Tambi Dieng",
+    "price": "Rp 192K",
+    "rating": "4.3",
+    "latitude": "-7.2643329",
+    "longitude": "109.948911"
+  },
+  {
+    "location_id": "0x2e7aa93e514169bb:0x72ee5d6845d84c78",
+    "name": "Hotel Asri 2",
+    "price": "Rp 150K",
+    "rating": "3.9",
+    "latitude": "-7.3993512",
+    "longitude": "109.6913339"
+  },
+  {
+    "location_id": "0x2e7aa1b5fd32104b:0xa13e0b938c9fcdad",
+    "name": "RedDoorz near Terminal Mendolo Wonosobo",
+    "price": "Rp 206K",
+    "rating": "4.6",
+    "latitude": "-7.3703483",
+    "longitude": "109.9252606"
+  },
+  {
+    "location_id": "0x2e7a8d4d0ca42923:0x912795d5c9a5ed28",
+    "name": "Home Stay Punokawan",
+    "price": "Rp 420K",
+    "rating": "4.9",
+    "latitude": "-7.6130265",
+    "longitude": "110.2061184"
+  },
+  {
+    "location_id": "0x2e7aa1006553f8bb:0x2e0635d1dea15313",
+    "name": "RedDoorz near Alun Alun Wonosobo",
+    "price": "Rp 209K",
+    "rating": "3.5",
+    "latitude": "-7.368345",
+    "longitude": "109.9012847"
+  },
+  {
+    "location_id": "0x2e7aa100895d2659:0x1e37397b92d26258",
+    "name": "HOTEL SENTRO",
+    "price": "Rp 236K",
+    "rating": "3.8",
+    "latitude": "-7.3683516",
+    "longitude": "109.9012851"
+  },
+  {
+    "location_id": "0x2e7aa1cf33a3a41b:0x4339ccbe26be310",
+    "name": "Cinnamon's Hotel Wonosobo",
+    "price": "Rp 292K",
+    "rating": "4.3",
+    "latitude": "-7.3668138",
+    "longitude": "109.9026001"
+  },
+  {
+    "location_id": "0x2e7aa175cc7241f3:0xca6db2551f3e641e",
+    "name": "RedDoorz Syariah near Taman Rekreasi Kalianget Wonosobo",
+    "price": "Rp 183K",
+    "rating": "4.2",
+    "latitude": "-7.3434409",
+    "longitude": "109.9071001"
+  },
+  {
+    "location_id": "0x2e7aa0592f3f9d0d:0xa421378e660a9e77",
+    "name": "Kresna Hotel Wonosobo",
+    "price": "Rp 551K",
+    "rating": "4.1",
+    "latitude": "-7.3555988",
+    "longitude": "109.9051239"
+  },
+  {
+    "location_id": "0x2e7a83d3f05cc9db:0x5e9090833412982c",
+    "name": "House n Coffee 55",
+    "price": "Rp 175K",
+    "rating": "4.8",
+    "latitude": "-7.3215549",
+    "longitude": "110.1892368"
+  },
+  {
+    "location_id": "0x2e700dd2da795f4b:0xf3d3ad41737f617d",
+    "name": "Rose House Dieng (Syariah)",
+    "price": "Rp 328K",
+    "rating": "4.8",
+    "latitude": "-7.2030747",
+    "longitude": "109.9044937"
+  },
+  {
+    "location_id": "0x2e7a9d5764691bed:0x43b30be8529f1117",
+    "name": "SABYTA HOMESTAY WISATA POSONG SIGANDUL KLEDUNG TEMANGGUNG🏡",
+    "price": "Rp 214K",
+    "rating": "4.8",
+    "latitude": "-7.3277621",
+    "longitude": "110.0456839"
+  },
+  {
+    "location_id": "0x2e7a8542aaffd22d:0x8b477bb7d0d59611",
+    "name": "RedDoorz Syariah near Universitas Tidar Magelang",
+    "price": "Rp 214K",
+    "rating": "4.7",
+    "latitude": "-7.4538031",
+    "longitude": "110.221166"
+  },
+  {
+    "location_id": "0x2e7a8cf12c60e2ff:0x9c2f5dcd1c0db4bd",
+    "name": "Sarasvati Borobudur Hotel",
+    "price": "Rp 1,33M",
+    "rating": "4.4",
+    "latitude": "-7.607127",
+    "longitude": "110.21051"
+  },
+  {
+    "location_id": "0x2e7a8da02e1a780d:0x77c405359ba6c306",
+    "name": "Balkondes Kebonsari",
+    "price": "Rp 266K",
+    "rating": "4.1",
+    "latitude": "-7.5980961",
+    "longitude": "110.1647507"
+  },
+  {
+    "location_id": "0x2e7a8cf3742688b5:0x4d4cb7fbf949e498",
+    "name": "OYO 2068 Abhaya Mudra Homestay",
+    "price": "Rp 148K",
+    "rating": "3.3",
+    "latitude": "-7.6040061",
+    "longitude": "110.2090244"
+  },
+  {
+    "location_id": "0x2e7a9d716aab6e57:0x3c604b8a3c983a21",
+    "name": "Temanggung Inn",
+    "price": "Rp 236K",
+    "rating": "4.5",
+    "latitude": "-7.3222786",
+    "longitude": "110.047355"
+  },
+  {
+    "location_id": "0x2e700e8bed669fc5:0x7551085bc0db603b",
+    "name": "Homestay Omah Gunung",
+    "price": "Rp 280K",
+    "rating": "4.6",
+    "latitude": "-7.2100372",
+    "longitude": "109.8351639"
+  },
+  {
+    "location_id": "0x2e7aa1708db071b7:0xbf4cd99bf07f8b71",
+    "name": "King Kabba Guest House",
+    "price": "Rp 704K",
+    "rating": "4.4",
+    "latitude": "-7.3815562",
+    "longitude": "109.898199"
+  },
+  {
+    "location_id": "0x2e700c9ab8401291:0x37936be4d0973309",
+    "name": "Homestay Pakuwojo Sikunir Syariah",
+    "price": "Rp 327K",
+    "rating": "4.6",
+    "latitude": "-7.2338356",
+    "longitude": "109.914685"
+  },
+  {
+    "location_id": "0x2e7a8dca46fa9a85:0x172a2d1567f0db47",
+    "name": "KINKEO BOROBUDUR",
+    "price": "Rp 328K",
+    "rating": "4.8",
+    "latitude": "-7.6154654",
+    "longitude": "110.1984829"
+  },
+  {
+    "location_id": "0x2e700d064a4209d3:0x7685f544c7c239ed",
+    "name": "DIENG PERMAI HOME STAY",
+    "price": "Rp 375K",
+    "rating": "4.7",
+    "latitude": "-7.2021153",
+    "longitude": "109.9082402"
+  },
+  {
+    "location_id": "0x2e7a8cceca1c52c9:0x1adfc74cefa927c1",
+    "name": "Villa Borobudur Resort",
+    "price": "Rp 6,77M",
+    "rating": "4.8",
+    "latitude": "-7.632846",
+    "longitude": "110.205656"
+  },
+  {
+    "location_id": "0x2e700d6f4482ee7f:0x47cd8bddf7ff49ff",
+    "name": "Homestay Banteng Adventure Dieng Mitra RedDoorz",
+    "price": "Rp 248K",
+    "rating": "4.7",
+    "latitude": "-7.2105191",
+    "longitude": "109.9247675"
+  },
+  {
+    "location_id": "0x2e7a8cce0a84e15b:0xba91f9f7a521314f",
+    "name": "First Kinara Homestay",
+    "price": "Rp 273K",
+    "rating": "4.5",
+    "latitude": "-7.6134186",
+    "longitude": "110.2070724"
+  },
+  {
+    "location_id": "0x2e7aa1218b64daed:0xc7ad074f39440976",
+    "name": "Oemahku Biru",
+    "price": "Rp 722K",
+    "rating": "5.0",
+    "latitude": "-7.3704376",
+    "longitude": "109.925118"
+  },
+  {
+    "location_id": "0x2e700de00eb180c7:0xe326e5636de277e4",
+    "name": "Dieng Ghuzy house",
+    "price": "Rp 315K",
+    "rating": "4.5",
+    "latitude": "-7.2042653",
+    "longitude": "109.9116079"
+  },
+  {
+    "location_id": "0x2e700d0219480bc7:0x914b31af212d115b",
+    "name": "Sharon Homestay",
+    "price": "Rp 1,07M",
+    "rating": "4.5",
+    "latitude": "-7.2018144",
+    "longitude": "109.9087865"
+  },
+  {
+    "location_id": "0x2e7a8ceb45f6c0bb:0xc3a0266e6d671ec",
+    "name": "Ndalem Nitihardjan Guesthouse",
+    "price": "Rp 536K",
+    "rating": "4.6",
+    "latitude": "-7.6145198",
+    "longitude": "110.2107072"
+  },
+  {
+    "location_id": "0x2e7aa0ffd7facb15:0x8258f160722176e4",
+    "name": "Hotel Dieng",
+    "price": "Rp 351K",
+    "rating": "4.3",
+    "latitude": "-7.3667831",
+    "longitude": "109.8999004"
+  },
+  {
+    "location_id": "0x2e7a8d3af7492513:0x15989959b7abe0eb",
+    "name": "Genthong Homestay",
+    "price": "Rp 255K",
+    "rating": "4.8",
+    "latitude": "-7.6090559",
+    "longitude": "110.2111587"
+  },
+  {
+    "location_id": "0x2e7a8e8fffffffff:0xba39df8056c19385",
+    "name": "Ning Tidar Hotel",
+    "price": "Rp 339K",
+    "rating": "4.3",
+    "latitude": "-7.5124529",
+    "longitude": "110.1973031"
+  },
+  {
+    "location_id": "0x2e7aa1006213d507:0x1f3b227b800cec7",
+    "name": "Hotel Surya Asia",
+    "price": "Rp 340K",
+    "rating": "4.0",
+    "latitude": "-7.3675853",
+    "longitude": "109.9013592"
+  },
+  {
+    "location_id": "0x2e700b087cf005b9:0x16970f05ac413e09",
+    "name": "HOTEL BABY ANGEL",
+    "price": "Rp 211K",
+    "rating": "4.3",
+    "latitude": "-7.2876437",
+    "longitude": "109.928756"
+  },
+  {
+    "location_id": "0x2e7a8db3291bd39d:0xa571658dbc128bd2",
+    "name": "Nia Maretta House Syariah",
+    "price": "Rp 196K",
+    "rating": "4.9",
+    "latitude": "-7.6027835",
+    "longitude": "110.178699"
+  },
+  {
+    "location_id": "0x2e7a8cec7a0502b1:0x38dffc923f56c862",
+    "name": "Home Stay & Penginapan Anugrah Borobudur Cottage",
+    "price": "Rp 200K",
+    "rating": "4.5",
+    "latitude": "-7.6133376",
+    "longitude": "110.2082535"
+  },
+  {
+    "location_id": "0x2e7a8ced633e48ab:0x767e8caf241caf23",
+    "name": "Cempaka Villa",
+    "price": "Rp 349K",
+    "rating": "4.3",
+    "latitude": "-7.6086254",
+    "longitude": "110.2093629"
+  },
+  {
+    "location_id": "0x2e7a9f84a78192c5:0x8957e4f984285f9c",
+    "name": "Homestay Anjani",
+    "price": "Rp 321K",
+    "rating": "4.9",
+    "latitude": "-7.3522332",
+    "longitude": "110.0306207"
+  },
+  {
+    "location_id": "0x2e7aa1dadeea1e49:0x84b0c182f1618084",
+    "name": "RedDoorz Syariah near Alun Alun Wonosobo 3",
+    "price": "Rp 234K",
+    "rating": "4.5",
+    "latitude": "-7.3488594",
+    "longitude": "109.9064181"
+  },
+  {
+    "location_id": "0x2e7aa10245a287dd:0x8a1f9c5150855698",
+    "name": "Madina Monochrome Homestay dan Kost Wonosobo",
+    "price": "Rp 1,11M",
+    "rating": "4.7",
+    "latitude": "-7.3268764",
+    "longitude": "109.9086054"
+  },
+  {
+    "location_id": "0x2e7a8f5d6fc40f41:0x78cce04f5b240b7d",
+    "name": "The Oxalis Regency Hotel Magelang",
+    "price": "Rp 502K",
+    "rating": "4.1",
+    "latitude": "-7.4854366",
+    "longitude": "110.2085359"
+  },
+  {
+    "location_id": "0x2e7a8ce71dac4acd:0x64e89bf8643a93d6",
+    "name": "Balkondes Duta Menoreh Desa Tanjungsari",
+    "price": "Rp 382K",
+    "rating": "4.1",
+    "latitude": "-7.6172005",
+    "longitude": "110.1959394"
+  },
+  {
+    "location_id": "0x2e700d0010374327:0x97ecb53fbf5e8418",
+    "name": "CHARAKA GRANDE DIENG",
+    "price": "Rp 450K",
+    "rating": "4.7",
+    "latitude": "-7.2098744",
+    "longitude": "109.9120239"
+  },
+  {
+    "location_id": "0x2e700de1e7290c7d:0xb5944daabd7f6e73",
+    "name": "Homestay Rizkia Dieng",
+    "price": "Rp 922K",
+    "rating": "4.8",
+    "latitude": "-7.2026982",
+    "longitude": "109.9097057"
+  },
+  {
+    "location_id": "0x2e700cc3c482b179:0xf1d34bfeedbde7c6",
+    "name": "Kings Dieng Hotel",
+    "price": "Rp 184K",
+    "rating": "4.0",
+    "latitude": "-7.2161778",
+    "longitude": "109.929722"
+  },
+  {
+    "location_id": "0x2e70797be4b4ba39:0x1b4f0778aec7513e",
+    "name": "Omah tawang homestay",
+    "price": "Rp 757K",
+    "rating": "4.6",
+    "latitude": "-7.3096968",
+    "longitude": "110.1599614"
+  },
+  {
+    "location_id": "0x2e7a142bc22e1df7:0xa656a91d629d366a",
+    "name": "Riyadi Palace Hotel Surakarta RedPartner",
+    "price": "Rp 191K",
+    "rating": "4.3",
+    "latitude": "-7.564865",
+    "longitude": "110.803297"
+  },
+  {
+    "location_id": "0x2e7a143836b69543:0x5f9e70ee23da6ca4",
+    "name": "Alila Solo",
+    "price": "Rp 1,27M",
+    "rating": "4.7",
+    "latitude": "-7.5591194",
+    "longitude": "110.7863289"
+  },
+  {
+    "location_id": "0x2e7a167d54217a31:0x8973b0013946bac2",
+    "name": "Ommaya Hotel & Resort",
+    "price": "Rp 172K",
+    "rating": "4.1",
+    "latitude": "-7.583676",
+    "longitude": "110.784418"
+  },
+  {
+    "location_id": "0x2e7a1431d75eba83:0xcf3e4a64ecd841db",
+    "name": "Swiss-Belinn Saripetojo Solo",
+    "price": "Rp 450K",
+    "rating": "4.5",
+    "latitude": "-7.5626526",
+    "longitude": "110.7953045"
+  },
+  {
+    "location_id": "0x2e7a1687812c1277:0x69f00f2d4cfc3485",
+    "name": "Novotel Solo",
+    "price": "Rp 574K",
+    "rating": "4.6",
+    "latitude": "-7.5678818",
+    "longitude": "110.8171353"
+  },
+  {
+    "location_id": "0x2e7a143e163c0a2f:0x3bdda49140403bdc",
+    "name": "favehotel Manahan - Solo",
+    "price": "Rp 307K",
+    "rating": "4.4",
+    "latitude": "-7.5520389",
+    "longitude": "110.7952295"
+  },
+  {
+    "location_id": "0x2e7a1685dda61da9:0x521b385cb0f5284e",
+    "name": "JW Naungan Hotel & Co-Living",
+    "price": "Rp 302K",
+    "rating": "4.5",
+    "latitude": "-7.5627725",
+    "longitude": "110.817988"
+  },
+  {
+    "location_id": "0x2e7a1468d4535f6b:0x5d96e2a389ec9cf8",
+    "name": "The Alana Hotel & Convention Center Solo",
+    "price": "Rp 689K",
+    "rating": "4.7",
+    "latitude": "-7.5449034",
+    "longitude": "110.7746072"
+  },
+  {
+    "location_id": "0x2e7a145c98e74d57:0x242d4d1d3bd6f797",
+    "name": "Multazam Hotel Solo",
+    "price": "Rp 191K",
+    "rating": "4.5",
+    "latitude": "-7.5548072",
+    "longitude": "110.7699857"
+  },
+  {
+    "location_id": "0x2e7a142ef3e2287f:0xfc3bf9e6a9af81ee",
+    "name": "HARRIS Hotel & Convention Solo",
+    "price": "Rp 553K",
+    "rating": "4.6",
+    "latitude": "-7.5625912",
+    "longitude": "110.7990176"
+  },
+  {
+    "location_id": "0x2e7a137ab432ff51:0xe03bbee9c41de90d",
+    "name": "Front One Hotel Airport Solo, Boyolali",
+    "price": "Rp 246K",
+    "rating": "4.4",
+    "latitude": "-7.5210794",
+    "longitude": "110.7484836"
+  },
+  {
+    "location_id": "0x2e7a15ef245206f7:0x64364a80ce0f7e2a",
+    "name": "The Sunan Hotel Solo",
+    "price": "Rp 345K",
+    "rating": "4.5",
+    "latitude": "-7.5573536",
+    "longitude": "110.7943764"
+  },
+  {
+    "location_id": "0x2e7a16814c7bd36b:0xc2b5d1f7250ef995",
+    "name": "Hotel Laksana Solo Manage by Dafam",
+    "price": "Rp 282K",
+    "rating": "4.0",
+    "latitude": "-7.5644722",
+    "longitude": "110.8133699"
+  },
+  {
+    "location_id": "0x2e7a1660e0edea3d:0x844d125061daf823",
+    "name": "Grand Mercure Solo Baru",
+    "price": "Rp 769K",
+    "rating": "4.6",
+    "latitude": "-7.5976063",
+    "longitude": "110.8154594"
+  },
+  {
+    "location_id": "0x2e7a142e87afda4f:0x5797803518f7448f",
+    "name": "ASTON Solo Hotel",
+    "price": "Rp 567K",
+    "rating": "4.7",
+    "latitude": "-7.563866",
+    "longitude": "110.798985"
+  },
+  {
+    "location_id": "0x2e7a142beaf358f9:0x61774a129519c459",
+    "name": "Grand Hap Hotel",
+    "price": "Rp 405K",
+    "rating": "4.3",
+    "latitude": "-7.5649111",
+    "longitude": "110.8037347"
+  },
+  {
+    "location_id": "0x2e7a142335947789:0x543661c39726d136",
+    "name": "lorin Solo Hotel",
+    "price": "Rp 364K",
+    "rating": "4.4",
+    "latitude": "-7.5431068",
+    "longitude": "110.7682585"
+  },
+  {
+    "location_id": "0x2e7a15d29e979dad:0xf991faf5ed1fb5fb",
+    "name": "D'Paragon Kerten Solo",
+    "price": "Rp 376K",
+    "rating": "4.5",
+    "latitude": "-7.5520349",
+    "longitude": "110.7923987"
+  },
+  {
+    "location_id": "0x2e7a157ae50ca2d7:0xa9e68dd68456057",
+    "name": "Solo Grand City Hotel",
+    "price": "Rp 225K",
+    "rating": "4.6",
+    "latitude": "-7.5659776",
+    "longitude": "110.7967644"
+  },
+  {
+    "location_id": "0x2e7a151da43a90c9:0xca236bf45453bdb8",
+    "name": "Dwangsa Lorin",
+    "price": "Rp 257K",
+    "rating": "4.6",
+    "latitude": "-7.5453041",
+    "longitude": "110.7690337"
+  },
+  {
+    "location_id": "0x2e7a15a37031c5fd:0xecf343c4dbeaa71c",
+    "name": "Urbanview Badran Residence Syariah Manahan",
+    "price": "Rp 230K",
+    "rating": "4.9",
+    "latitude": "-7.5597082",
+    "longitude": "110.8064499"
+  },
+  {
+    "location_id": "0x2e7a1660e0edea3d:0x844d125061daf823",
+    "name": "Grand Mercure Solo Baru",
+    "price": "Rp 769K",
+    "rating": "4.6",
+    "latitude": "-7.5976063",
+    "longitude": "110.8154594"
+  },
+  {
+    "location_id": "0x2e7a1427ac04f2bb:0xef1d746e25602ad5",
+    "name": "Adhiwangsa Hotel & Convention",
+    "price": "Rp 260K",
+    "rating": "4.5",
+    "latitude": "-7.5484203",
+    "longitude": "110.7877213"
+  },
+  {
+    "location_id": "0x2e7a142beaf358f9:0x61774a129519c459",
+    "name": "Grand Hap Hotel",
+    "price": "Rp 405K",
+    "rating": "4.3",
+    "latitude": "-7.5649111",
+    "longitude": "110.8037347"
+  },
+  {
+    "location_id": "0x2e7a15d4c50ff0bb:0x1f12408780498d47",
+    "name": "Genio Syariah Hotel",
+    "price": "Rp 273K",
+    "rating": "4.9",
+    "latitude": "-7.542914",
+    "longitude": "110.7632525"
+  },
+  {
+    "location_id": "0x2e7a1583c6e9c6ab:0x1997bbc168ee9d2d",
+    "name": "Zest Parang Raja Solo by Swiss-Belhotel International",
+    "price": "Rp 251K",
+    "rating": "4.6",
+    "latitude": "-7.5561075",
+    "longitude": "110.8033176"
+  },
+  {
+    "location_id": "0x2e7a1487801c0e03:0x9c3ea72083df9473",
+    "name": "Ramada Suites By Wyndham Solo",
+    "price": "Rp 438K",
+    "rating": "4.5",
+    "latitude": "-7.5380248",
+    "longitude": "110.7598102"
+  },
+  {
+    "location_id": "0x2e7a16826754e581:0x1b996283f3bfc735",
+    "name": "Monoloog Solo",
+    "price": "Rp 261K",
+    "rating": "4.4",
+    "latitude": "-7.5639324",
+    "longitude": "110.814307"
+  },
+  {
+    "location_id": "0x2e7a15d29e979dad:0xf991faf5ed1fb5fb",
+    "name": "D'Paragon Kerten Solo",
+    "price": "Rp 376K",
+    "rating": "4.5",
+    "latitude": "-7.5520349",
+    "longitude": "110.7923987"
+  },
+  {
+    "location_id": "0x2e7a1687a439ba9f:0xb7f0b1350c191ccb",
+    "name": "Sadinah Sahid Josodipuro Hotel Kartasura",
+    "price": "Rp 183K",
+    "rating": "3.9",
+    "latitude": "-7.544043",
+    "longitude": "110.7446685"
+  },
+  {
+    "location_id": "0x2e7a152cd3ce64f7:0xe5012077101d14cd",
+    "name": "Solia Zigna Kampung Batik",
+    "price": "Rp 549K",
+    "rating": "4.7",
+    "latitude": "-7.5701007",
+    "longitude": "110.7956161"
+  },
+  {
+    "location_id": "0x2e7a15b533364e2b:0x3bd46d343c428131",
+    "name": "The Nyaman Solo",
+    "price": "Rp 378K",
+    "rating": "4.6",
+    "latitude": "-7.5496163",
+    "longitude": "110.7934095"
+  },
+  {
+    "location_id": "0x2e7a167db8f3d7ef:0x7d4815e7bf873cc7",
+    "name": "Amaris Hotel Sriwedari Solo",
+    "price": "Rp 328K",
+    "rating": "4.3",
+    "latitude": "-7.5699161",
+    "longitude": "110.8152365"
+  },
+  {
+    "location_id": "0x2e7a168795d16957:0x7c20dc02f3206dfd",
+    "name": "Grand Orchid Hotel Solo",
+    "price": "Rp 220K",
+    "rating": "4.1",
+    "latitude": "-7.5670288",
+    "longitude": "110.8174567"
+  },
+  {
+    "location_id": "0x2e7a15b11978d385:0xa5bbe8a91cb9367",
+    "name": "SUPER OYO 2209 Solo Point Guest House Syariah",
+    "price": "Rp 98,4K",
+    "rating": "4.3",
+    "latitude": "-7.5581348",
+    "longitude": "110.7858054"
+  },
+  {
+    "location_id": "0x2e7a1687732a2e5d:0x2806156383cb654e",
+    "name": "Solo Paragon Hotel & Residences",
+    "price": "Rp 662K",
+    "rating": "4.6",
+    "latitude": "-7.563134",
+    "longitude": "110.8095627"
+  },
+  {
+    "location_id": "0x2e7a142e8b96f579:0x71d07b1480745360",
+    "name": "POP! Hotel Solo",
+    "price": "Rp 274K",
+    "rating": "4.4",
+    "latitude": "-7.5628069",
+    "longitude": "110.7991568"
+  },
+  {
+    "location_id": "0x2e7a167c716bb405:0x90cd3f9e98ce153c",
+    "name": "Sarila Hotel",
+    "price": "Rp 168K",
+    "rating": "4.0",
+    "latitude": "-7.5736111",
+    "longitude": "110.8177778"
+  },
+  {
+    "location_id": "0x2e7a16861963ecf1:0xef9b006b3b992b99",
+    "name": "Sahid Jaya Solo Hotel",
+    "price": "Rp 526K",
+    "rating": "4.3",
+    "latitude": "-7.5637746",
+    "longitude": "110.8189876"
+  },
+  {
+    "location_id": "0x2e7a142be61dfd41:0x411ddcc76a5a2af1",
+    "name": "Diamond Hotel Solo",
+    "price": "Rp 250K",
+    "rating": "4.4",
+    "latitude": "-7.5642292",
+    "longitude": "110.8028956"
+  },
+  {
+    "location_id": "0x2e7a142be7064d6f:0x1478c3322924d3",
+    "name": "Sala View Hotel",
+    "price": "Rp 446K",
+    "rating": "4.4",
+    "latitude": "-7.5629359",
+    "longitude": "110.7992624"
+  },
+  {
+    "location_id": "0x2e7a142be7064d6f:0x1478c3322924d3",
+    "name": "Sala View Hotel",
+    "price": "Rp 446K",
+    "rating": "4.4",
+    "latitude": "-7.5629359",
+    "longitude": "110.7992624"
+  },
+  {
+    "location_id": "0x2e7a167c199991f5:0xc1a31aad2b4ee3f6",
+    "name": "Lampion Hotel Solo",
+    "price": "Rp 233K",
+    "rating": "4.2",
+    "latitude": "-7.5724697",
+    "longitude": "110.814209"
+  },
+  {
+    "location_id": "0x2e7a15a37031c5fd:0xecf343c4dbeaa71c",
+    "name": "Urbanview Badran Residence Syariah Manahan",
+    "price": "Rp 230K",
+    "rating": "4.9",
+    "latitude": "-7.5597082",
+    "longitude": "110.8064499"
+  },
+  {
+    "location_id": "0x2e7a142e89a11b81:0xceaaac27236720e1",
+    "name": "Megaland Hotel Solo",
+    "price": "Rp 437K",
+    "rating": "4.4",
+    "latitude": "-7.5644",
+    "longitude": "110.801404"
+  },
+  {
+    "location_id": "0x2e7a1783ff83831b:0x4c64d521f0f57dae",
+    "name": "Chelsea J indekost by The Packer Lodge",
+    "price": "Rp 125K",
+    "rating": "4.6",
+    "latitude": "-7.558584",
+    "longitude": "110.819274"
+  },
+  {
+    "location_id": "0x2e7a15f7865882b3:0x80f96a8016cd26c2",
+    "name": "Capital O 1888 Griya RW Family Guest House",
+    "price": "Rp 124K",
+    "rating": "4.3",
+    "latitude": "-7.5347897",
+    "longitude": "110.7764111"
+  },
+  {
+    "location_id": "0x2e7a167f8c794419:0xf97d986691992333",
+    "name": "Hotel Baron Indah",
+    "price": "Rp 179K",
+    "rating": "4.2",
+    "latitude": "-7.5709783",
+    "longitude": "110.8062021"
+  },
+  {
+    "location_id": "0x2e7a151582d9cb23:0x58ca8d0dd1f99729",
+    "name": "D'Colomadu Guest House",
+    "price": "Rp 352K",
+    "rating": "5.0",
+    "latitude": "-7.5348881",
+    "longitude": "110.7553406"
+  },
+  {
+    "location_id": "0x2e7a137983a14349:0x9b6922215ff42b1d",
+    "name": "Hotel Al Azhar Azhima Solo Powered by Archipelago",
+    "price": "Rp 308K",
+    "rating": "4.2",
+    "latitude": "-7.5225369",
+    "longitude": "110.7548009"
+  },
+  {
+    "location_id": "0x2e7a1466096eaaab:0xaae11119c867a38c",
+    "name": "RedDoorz Plus near UMS Solo",
+    "price": "Rp 201K",
+    "rating": "3.8",
+    "latitude": "-7.545372",
+    "longitude": "110.770804"
+  },
+  {
+    "location_id": "0x2e7a177a98126e83:0x720b1e914b069367",
+    "name": "Holabeds Hotel / Hostel",
+    "price": "Rp 212K",
+    "rating": "4.7",
+    "latitude": "-7.5615174",
+    "longitude": "110.8090858"
+  },
+  {
+    "location_id": "0x2e7a1568af18a017:0x7751a5df2c1f5756",
+    "name": "RedDoorz Syariah @ Griya Thamrin Manahan Solo",
+    "price": "Rp 135K",
+    "rating": "4.7",
+    "latitude": "-7.5579972",
+    "longitude": "110.7979462"
+  },
+  {
+    "location_id": "0x2e7a173fd92d9e31:0xd7c5070ee2cd565d",
+    "name": "OYO 1506 Shabrina 2 Syariah",
+    "price": "Rp 114K",
+    "rating": "4.6",
+    "latitude": "-7.5368177",
+    "longitude": "110.8177449"
+  },
+  {
+    "location_id": "0x2e7a143fa501e937:0xf2391873ad7635cb",
+    "name": "Kost Eksklusif Nadamax Residence",
+    "price": "Rp 135K",
+    "rating": "4.5",
+    "latitude": "-7.551528",
+    "longitude": "110.78582"
+  },
+  {
+    "location_id": "0x2e7a143017ae2de1:0x5a8ebb2d49258f40",
+    "name": "Grand Sae Boutique Hotel",
+    "price": "Rp 270K",
+    "rating": "3.8",
+    "latitude": "-7.5603601",
+    "longitude": "110.7948147"
+  },
+  {
+    "location_id": "0x2e7a1436e49c6325:0xb5688ac238d68445",
+    "name": "OYO 2803 Orchid House",
+    "price": "Rp 98,4K",
+    "rating": "3.0",
+    "latitude": "-7.5626684",
+    "longitude": "110.787132"
+  },
+  {
+    "location_id": "0x2e7a1464f05be9bd:0xd6bf62f678ca5b32",
+    "name": "Grand Laguna Hotel And Villa",
+    "price": "Rp 462K",
+    "rating": "4.4",
+    "latitude": "-7.5421325",
+    "longitude": "110.7681013"
+  },
+  {
+    "location_id": "0x2e7a158ffb205f19:0x2c021c0a58bc2edc",
+    "name": "Sans Fourth Loft",
+    "price": "Rp 234K",
+    "rating": "4.4",
+    "latitude": "-7.5565938",
+    "longitude": "110.7990616"
+  },
+  {
+    "location_id": "0x2e7a166eee67fefd:0xfc34dbbf0daa4334",
+    "name": "Chrome Hotel & Resort Solo",
+    "price": "Rp 599K",
+    "rating": "4.3",
+    "latitude": "-7.5429784",
+    "longitude": "110.7606051"
+  },
+  {
+    "location_id": "0x2e7a1565739ca241:0x8d27b65a518a0147",
+    "name": "RedDoorz Apartment near Exit Toll Colomadu",
+    "price": "Rp 264K",
+    "rating": "4.3",
+    "latitude": "-7.5555002",
+    "longitude": "110.7545659"
+  },
+  {
+    "location_id": "0x2e7a1430eb486d37:0x84c7e5a16b62b4ca",
+    "name": "The Amrani Syariah Hotel",
+    "price": "Rp 259K",
+    "rating": "4.4",
+    "latitude": "-7.5606909",
+    "longitude": "110.791687"
+  },
+  {
+    "location_id": "0x2e7a167efb6f253f:0x6552343463a0e509",
+    "name": "The Garden Suites Solo",
+    "price": "Rp 292K",
+    "rating": "4.3",
+    "latitude": "-7.5718489",
+    "longitude": "110.8113479"
+  },
+  {
+    "location_id": "0x2e7a1781a3c6b42b:0x11bafb09566677ca",
+    "name": "Dinasty Smart Hotel",
+    "price": "Rp 245K",
+    "rating": "4.1",
+    "latitude": "-7.5510696",
+    "longitude": "110.8139879"
+  },
+  {
+    "location_id": "0x2e7a167a91357275:0xd4fa36e0473caef6",
+    "name": "D'Paragon Manduro Solo",
+    "price": "Rp 298K",
+    "rating": "4.6",
+    "latitude": "-7.5776948",
+    "longitude": "110.8176637"
+  },
+  {
+    "location_id": "0x2e7a179383cd2eb1:0xb4bfb05907689c2",
+    "name": "RedDoorz @ Solo Baru",
+    "price": "Rp 208K",
+    "rating": "3.6",
+    "latitude": "-7.597515",
+    "longitude": "110.811782"
+  },
+  {
+    "location_id": "0x2e7a142bc25a6ee5:0xa656a91d629d366a",
+    "name": "Riyadi Palace Hotel Surakarta RedPartner",
+    "price": "Rp 191K",
+    "rating": "4.3",
+    "latitude": "-7.564865",
+    "longitude": "110.8032966"
+  },
+  {
+    "location_id": "0x2e7a1605f1bb80b7:0x47d72362dff88743",
+    "name": "KoolKost Syariah @ Ir Soekarno Solo Baru",
+    "price": "Rp 180K",
+    "rating": "4.4",
+    "latitude": "-7.5926952",
+    "longitude": "110.8167651"
+  },
+  {
+    "location_id": "0x2e7a1682a226112f:0x2dc19f21ea21939",
+    "name": "Hotel Agas Internasional",
+    "price": "Rp 292K",
+    "rating": "4.0",
+    "latitude": "-7.5594408",
+    "longitude": "110.8081356"
+  },
+  {
+    "location_id": "0x2e7a157598fdb37f:0x595ab6aedfb3898d",
+    "name": "Kost Sunshine Living",
+    "price": "Rp 331K",
+    "rating": "4.9",
+    "latitude": "-7.5502702",
+    "longitude": "110.7917865"
+  },
+  {
+    "location_id": "0x2e7a14eaea898b95:0x1aed15755d75a165",
+    "name": "Graha Adi Karya Syariah Surakarta RedPartner",
+    "price": "Rp 200K",
+    "rating": "4.3",
+    "latitude": "-7.5533823",
+    "longitude": "110.7377032"
+  },
+  {
+    "location_id": "0x2e7a149b7292ffff:0x6d018b34403d1975",
+    "name": "RedDoorz near Bandara Adi Soemarmo Solo",
+    "price": "Rp 167K",
+    "rating": "3.8",
+    "latitude": "-7.5226019",
+    "longitude": "110.748335"
+  },
+  {
+    "location_id": "0x2e7a13b16f9c3617:0x10aac79973e46ea5",
+    "name": "Shofiya Guesthouse Solo",
+    "price": "Rp 400K",
+    "rating": "4.7",
+    "latitude": "-7.5220688",
+    "longitude": "110.7687581"
+  },
+  {
+    "location_id": "0x2e7a150033fa6b0d:0x704b6dc33a27e8b8",
+    "name": "VIFA GUEST HOUSE",
+    "price": "Rp 137K",
+    "rating": "4.7",
+    "latitude": "-7.5430642",
+    "longitude": "110.8031591"
+  },
+  {
+    "location_id": "0x2e7a174bd17b995f:0x33e645f21ebeceb4",
+    "name": "Solia Yosodipuro Solo",
+    "price": "Rp 442K",
+    "rating": "4.6",
+    "latitude": "-7.5654401",
+    "longitude": "110.8193821"
+  },
+  {
+    "location_id": "0x2e7a16993a0cfcdf:0x77a4901a924dcae5",
+    "name": "RedDoorz near Terminal Tirtonadi",
+    "price": "Rp 257K",
+    "rating": "4.1",
+    "latitude": "-7.5502122",
+    "longitude": "110.8149213"
+  },
+  {
+    "location_id": "0x2e7a152779221287:0x1fe452a9359d122e",
+    "name": "Urbanview Syariah Kadarman Home Laweyan by RedDoorz",
+    "price": "Rp 222K",
+    "rating": "4.8",
+    "latitude": "-7.5688898",
+    "longitude": "110.8041859"
+  },
+  {
+    "location_id": "0x2e7a137ad2474333:0xc837ff3c98031012",
+    "name": "Hotel Amanah Sejahtera",
+    "price": "Rp 202K",
+    "rating": "4.1",
+    "latitude": "-7.5226456",
+    "longitude": "110.7482785"
+  },
+  {
+    "location_id": "0x2e7a15ea04740fe1:0x1d803aa823a7f092",
+    "name": "Pucuk Matahari Family Guesthouse",
+    "price": "Rp 200K",
+    "rating": "4.4",
+    "latitude": "-7.5383185",
+    "longitude": "110.748548"
+  },
+  {
+    "location_id": "0x2e7a1502157e127f:0xd7d50d20ccc0eba9",
+    "name": "Capital O 2258 Santana Syariah Guest House",
+    "price": "Rp 110K",
+    "rating": "4.0",
+    "latitude": "-7.5554133",
+    "longitude": "110.7388082"
+  },
+  {
+    "location_id": "0x2e7a15081cbd8a93:0x42134b7f35e51859",
+    "name": "Rumi Solo",
+    "price": "Rp 182K",
+    "rating": "4.6",
+    "latitude": "-7.5746144",
+    "longitude": "110.7694748"
+  },
+  {
+    "location_id": "0x2e7a143c1745f637:0x8059c4b107bd2ab2",
+    "name": "Hotel D'Madinah",
+    "price": "Rp 185K",
+    "rating": "4.1",
+    "latitude": "-7.5532746",
+    "longitude": "110.7904281"
+  },
+  {
+    "location_id": "0x2e7a15b9f53d025d:0xe24e70b89b043507",
+    "name": "RedDoorz Plus near UMS Solo 2",
+    "price": "Rp 245K",
+    "rating": "4.5",
+    "latitude": "-7.5538664",
+    "longitude": "110.7767096"
+  },
+  {
+    "location_id": "0x2e7a1433b6747521:0x77fa215a47758b1",
+    "name": "Hotel Laweyan",
+    "price": "Rp 112K",
+    "rating": "3.8",
+    "latitude": "-7.5685724",
+    "longitude": "110.793598"
+  },
+  {
+    "location_id": "0x2e7a1686c6101b05:0x7cae9089c351f145",
+    "name": "RedDoorz Plus near Solo Paragon Mall",
+    "price": "Rp 219K",
+    "rating": "4.4",
+    "latitude": "-7.5646229",
+    "longitude": "110.8143588"
+  },
+  {
+    "location_id": "0x2e7a15cd69c05ba7:0x412060b7aaf6f0c0",
+    "name": "Mangkuyudan Hotel",
+    "price": "Rp 126K",
+    "rating": "3.9",
+    "latitude": "-7.5673014",
+    "longitude": "110.7990546"
+  },
+  {
+    "location_id": "0x2e7a157c71c4d9c7:0x597447016cf989d6",
+    "name": "Syariah Hotel Solo",
+    "price": "Rp 292K",
+    "rating": "4.5",
+    "latitude": "-7.544168",
+    "longitude": "110.7662735"
+  },
+  {
+    "location_id": "0x2e7a15b9b9817cc3:0x56ab9922d55e35aa",
+    "name": "Hotel D'Madinah Inn - Gentan",
+    "price": "Rp 292K",
+    "rating": "3.9",
+    "latitude": "-7.5820243",
+    "longitude": "110.7798729"
+  },
+  {
+    "location_id": "0x2e7a1374fbaf2cf3:0x9101a2da1db061c3",
+    "name": "OYO 1601 Anugrah Hotel",
+    "price": "Rp 208K",
+    "rating": "4.1",
+    "latitude": "-7.5121502",
+    "longitude": "110.7563925"
+  },
+  {
+    "location_id": "0x2e7a1433752341e5:0xc75e9efa4338c7bd",
+    "name": "Super OYO 90193 D'waru Homestay Syariah",
+    "price": "Rp 85,2K",
+    "rating": "3.8",
+    "latitude": "-7.5656372",
+    "longitude": "110.7917832"
+  },
+  {
+    "location_id": "0x2e7a16851a2710bd:0x82ef5b3a9627004a",
+    "name": "RedDoorz near Solo Balapan Station 2",
+    "price": "Rp 204K",
+    "rating": "4.0",
+    "latitude": "-7.5595177",
+    "longitude": "110.8172828"
+  },
+  {
+    "location_id": "0x2e7a15c06a69717f:0xc6b6facd254d55ac",
+    "name": "RedDoorz Syariah near Purwosari Train Station",
+    "price": "Rp 202K",
+    "rating": "4.2",
+    "latitude": "-7.5612668",
+    "longitude": "110.8002263"
+  },
+  {
+    "location_id": "0x2e7a15b25f0d3aeb:0x54ec2bfec1fa3f45",
+    "name": "Reddoorz near Tugu Kartasura",
+    "price": "Rp 211K",
+    "rating": "4.5",
+    "latitude": "-7.5475344",
+    "longitude": "110.7488161"
+  },
+  {
+    "location_id": "0x2e7a143de9bd6d33:0xee59cdbb27b306",
+    "name": "Pineapple Mansion Solo Mitra RedDoorz near RS JIH Solo",
+    "price": "Rp 230K",
+    "rating": "3.6",
+    "latitude": "-7.5502657",
+    "longitude": "110.7908149"
+  },
+  {
+    "location_id": "0x2e7a15a08f99c14f:0x24522bd7c3942bdc",
+    "name": "RedDoorz Syariah near Transmart Pabelan Solo",
+    "price": "Rp 174K",
+    "rating": "4.7",
+    "latitude": "-7.5661745",
+    "longitude": "110.7545147"
+  },
+  {
+    "location_id": "0x2e7a1795d6beac51:0x13453271b0d0a1d1",
+    "name": "RedDoorz near Stasiun Solo Balapan 3",
+    "price": "Rp 128K",
+    "latitude": "-7.5586419",
+    "longitude": "110.8191077",
+    "rating": "4.2"
+  },
+  {
+    "location_id": "0x2e7a1698e55ca587:0x861d2da6029a56cd",
+    "name": "Red Chilies Hotel",
+    "price": "Rp 233K",
+    "latitude": "-7.5500109",
+    "longitude": "110.815726",
+    "rating": "4.4"
+  },
+  {
+    "location_id": "0x2e7a16827b389787:0xb4a5d417f6689c05",
+    "name": "Kesuma Teratai Guesthouse",
+    "price": "Rp 175K",
+    "latitude": "-7.5633779",
+    "longitude": "110.8114653",
+    "rating": "4.3"
+  },
+  {
+    "location_id": "0x2e7a177f5f6b9c13:0x35767dddccfc5260",
+    "name": "Collection O 91515 Grand Sahman",
+    "price": "Rp 211K",
+    "latitude": "-7.5649601",
+    "longitude": "110.8144181",
+    "rating": "4.5"
+  },
+  {
+    "location_id": "0x2e7a155944cfdd49:0xeb894463d1367691",
+    "name": "Hotel Parangraja",
+    "price": "Rp 232K",
+    "latitude": "-7.5561416",
+    "longitude": "110.7913103",
+    "rating": "4.6"
+  },
+  {
+    "location_id": "0x2e7a141f5a919769:0x603e00cecfe7db2d",
+    "name": "D'Paragon Sumber Solo",
+    "price": "Rp 332K",
+    "latitude": "-7.5481179",
+    "longitude": "110.8025191",
+    "rating": "4.1"
+  },
+  {
+    "location_id": "0x2e7a1473fe53f3a9:0xd9edaffc8f0b38e3",
+    "name": "GRIYA ASOKA",
+    "price": "Rp 193K",
+    "latitude": "-7.5349095",
+    "longitude": "110.7779499",
+    "rating": "4.5"
+  },
+  {
+    "location_id": "0x2e7a15bb1733d6bf:0x58fcfbe7aa80192a",
+    "name": "Kost & Guest House Omah Paulan 86",
+    "price": "Rp 186K",
+    "latitude": "-7.543266",
+    "longitude": "110.7544507",
+    "rating": "4.5"
+  },
+  {
+    "location_id": "0x2e7a17ec1668e123:0x2f30bfb9aa9778c9",
+    "name": "GRIYA INDAH SARI",
+    "price": "Rp 169K",
+    "latitude": "-7.5602128",
+    "longitude": "110.8190871",
+    "rating": "4.7"
+  },
+  {
+    "location_id": "0x2e7a15239ecea891:0xc4092b74db0f4b15",
+    "name": "RedDoorz Syariah @ Klodran Solo",
+    "price": "Rp 164K",
+    "latitude": "-7.5321671",
+    "longitude": "110.7927666",
+    "rating": "4.0"
+  },
+  {
+    "location_id": "0x2e7a15d57e3569ab:0x429f0abc0b905b73",
+    "name": "RedDoorz Plus @ Laweyan",
+    "price": "Rp 158K",
+    "latitude": "-7.5711233",
+    "longitude": "110.8071988",
+    "rating": "5.0"
+  },
+  {
+    "location_id": "0x2e7a150624bfe803:0x7d2c01f4d7b7655a",
+    "name": "RedDoorz Syariah near Perempatan Kartasuro",
+    "price": "Rp 268K",
+    "latitude": "-7.5555882",
+    "longitude": "110.7431298",
+    "rating": "4.0"
+  },
+  {
+    "location_id": "0x2e7a167db086ae6b:0x8f77eef9abb261e5",
+    "name": "Hotel Putri Sari",
+    "price": "Rp 136K",
+    "latitude": "-7.5644083",
+    "longitude": "110.804563",
+    "rating": "4.5"
+  },
+  {
+    "location_id": "0x2e7a155af9794cfb:0xcde2db754422d5a8",
+    "name": "OYO 1611 Four D'home",
+    "price": "Rp 201K",
+    "latitude": "-7.543213",
+    "longitude": "110.7876367",
+    "rating": "4.4"
+  },
+  {
+    "location_id": "0x2e7a166bddf64ff7:0xf2841167381ff881",
+    "name": "Indah Palace",
+    "price": "Rp 234K",
+    "latitude": "-7.5786052",
+    "longitude": "110.8092712",
+    "rating": "4.5"
+  },
+  {
+    "location_id": "0x2e7a153284170db3:0xa33e9d8acd1543db",
+    "name": "Sehati House",
+    "price": "Rp 226K",
+    "latitude": "-7.5902534",
+    "longitude": "110.8011921",
+    "rating": "4.9"
+  },
+  {
+    "location_id": "0x2e7a146f5a23ad1b:0xd05c4544243ebaaa",
+    "name": "D'Villa Guesthouse",
+    "price": "Rp 194K",
+    "latitude": "-7.5439304",
+    "longitude": "110.7723925",
+    "rating": "4.2"
+  },
+  {
+    "location_id": "0x2e7a154da9910a7f:0xe67ef0cef0922bf9",
+    "name": "Capital O 90410 Griya Amanah Jajar Syariah",
+    "price": "Rp 182K",
+    "latitude": "-7.555718",
+    "longitude": "110.7859989",
+    "rating": "4.2"
+  },
+  {
+    "location_id": "0x2e7a1532e8e17785:0x9d30bb77b29a51a9",
+    "name": "Inn Home Guest House Solo",
+    "price": "Rp 722K",
+    "latitude": "-7.5685638",
+    "longitude": "110.7785544",
+    "rating": "4.7"
+  },
+  {
+    "location_id": "0x2e7a143b88531a4f:0x28a1da0bace1f24f",
+    "name": "RedDoorz near Stadion Manahan Solo",
+    "price": "Rp 204K",
+    "latitude": "-7.554499",
+    "longitude": "110.7918107",
+    "rating": "3.5"
+  },
+  {
+    "location_id": "0x2e7a15e250a45f5f:0x263dc7e4bc04492b",
+    "name": "RedDoorz Plus near RS JIH Solo",
+    "price": "Rp 243K",
+    "latitude": "-7.5505597",
+    "longitude": "110.7849677",
+    "rating": "4.2"
+  },
+  {
+    "location_id": "0x2e7a1683e5ebfe6f:0xa548e32c4f527794",
+    "name": "RedDoorz Syariah near Solo Paragon Mall 2",
+    "price": "Rp 215K",
+    "latitude": "-7.5630458",
+    "longitude": "110.8129867",
+    "rating": "4.4"
+  },
+  {
+    "location_id": "0x2e7a15dc4d31932b:0xf6d5876ffc010cd0",
+    "name": "Hotel Griya Amanah",
+    "price": "Rp 115K",
+    "latitude": "-7.5557437",
+    "longitude": "110.786058",
+    "rating": "4.3"
+  },
+  {
+    "location_id": "0x2e7a158babdba60f:0x7c5e826d7fd70a76",
+    "name": "RedDoorz Plus @ Purwosari",
+    "price": "Rp 211K",
+    "latitude": "-7.5647457",
+    "longitude": "110.7986708",
+    "rating": "4.1"
+  },
+  {
+    "location_id": "0x2e7a15b9a4e51597:0xb878bde82ad0f7ca",
+    "name": "RedDoorz Premium @ Slamet Riyadi 2",
+    "price": "Rp 202K",
+    "latitude": "-7.5648678",
+    "longitude": "110.803368"
+  },
+  {
+    "location_id": "0x2e7a1473fd70f293:0xca52fdcd90954ebf",
+    "name": "RedDoorz @ Colomadu 2",
+    "price": "Rp 168K",
+    "latitude": "-7.5348723",
+    "longitude": "110.7779344"
+  },
+  {
+    "location_id": "0x2e7a4405e004d9b5:0xb9493beeae75720b",
+    "name": "Hotel Merak Indah",
+    "price": "Rp 160K",
+    "rating": "3.9",
+    "latitude": "-7.706986",
+    "longitude": "110.60642"
+  },
+  {
+    "location_id": "0x2e7a440d0c261333:0x62bc2f83897cee24",
+    "name": "Tjokro Hotel Klaten",
+    "price": "Rp 475K",
+    "rating": "4.3",
+    "latitude": "-7.710503",
+    "longitude": "110.595768"
+  },
+  {
+    "location_id": "0x2e7a45cfe311d84f:0x5f6a152027c95bec",
+    "name": "Hotel Grand HD Klaten",
+    "price": "Rp 166K",
+    "rating": "3.9",
+    "latitude": "-7.7164038",
+    "longitude": "110.5962043"
+  },
+  {
+    "location_id": "0x2e7a4685498c81b1:0x90af5759a631ef2e",
+    "name": "D'Sawah Guesthouse Klaten near Danau Rawa Jombor",
+    "price": "Rp 171K",
+    "rating": "3.6",
+    "latitude": "-7.7318399",
+    "longitude": "110.6273523"
+  },
+  {
+    "location_id": "0x51000af6fd54e4b:0x17cd0b4ee0d2c9db",
+    "name": "Hotel Edotel",
+    "price": "Rp 197K",
+    "rating": "4.2",
+    "latitude": "-7.7083468",
+    "longitude": "110.5955039"
+  },
+  {
+    "location_id": "0x2e7a45948567744f:0x2b495d5014dfc4c1",
+    "name": "RedDoorz Syariah near RS Soeradji Pemuda Klaten",
+    "price": "Rp 228K",
+    "rating": "4.5",
+    "latitude": "-7.7138051",
+    "longitude": "110.5952165"
+  },
+  {
+    "location_id": "0x2e7a454d1aa2e69d:0xd04556b63ab15df5",
+    "name": "RedDoorz @ Klaten City",
+    "price": "Rp 310K",
+    "rating": "4.7",
+    "latitude": "-7.7092131",
+    "longitude": "110.6145211"
+  },
+  {
+    "location_id": "0x2e7a4405c65de7af:0xb9493beeae75720b",
+    "name": "Hotel Merak Indah",
+    "price": "Rp 160K",
+    "rating": "3.9",
+    "latitude": "-7.7069863",
+    "longitude": "110.60642"
+  },
+  {
+    "location_id": "0x2e7a448b6fef2505:0xa98007cb2aa6cc6",
+    "name": "Griya Gendhis Saraswati Hotel Klaten",
+    "price": "Rp 323K",
+    "rating": "4.5",
+    "latitude": "-7.7226531",
+    "longitude": "110.5640653"
+  },
+  {
+    "location_id": "0x2e7a43f97c0bf92f:0x409d0be7558063a3",
+    "name": "Hotel Bima",
+    "price": "Rp 137K",
+    "rating": "3.5",
+    "latitude": "-7.6966667",
+    "longitude": "110.6083333"
+  },
+  {
+    "location_id": "0x2e7a41d30595c539:0x3968d809b186c8e0",
+    "name": "Pondok Keluarga KLATEN",
+    "price": "Rp 158K",
+    "rating": "4.2",
+    "latitude": "-7.6876406",
+    "longitude": "110.6323897"
+  },
+  {
+    "location_id": "0x2e7a4531573e5db9:0xb1a96cf66a87d88a",
+    "name": "RedDoorz near Klaten Train Station",
+    "price": "Rp 296K",
+    "rating": "4.6",
+    "latitude": "-7.7073241",
+    "longitude": "110.5978131"
+  },
+  {
+    "location_id": "0x2e7a44099a945b8b:0x4da3f3d1e806ee4a",
+    "name": "Hotel Alami",
+    "price": "Rp 156K",
+    "rating": "3.6",
+    "latitude": "-7.7045208",
+    "longitude": "110.6000321"
+  },
+  {
+    "location_id": "0x2e7a453be0f68e2f:0xfa33b14559d63cc5",
+    "name": "Urbanview Syariah Loji Arum Stasiun Klaten by RedDoorz",
+    "price": "Rp 237K",
+    "rating": "4.3",
+    "latitude": "-7.7143576",
+    "longitude": "110.5939866"
+  },
+  {
+    "location_id": "0x2e7a4378e4cc3b07:0xe1d13c30d29ea3a7",
+    "name": "Hotel Mulia Dua Syariah",
+    "price": "Rp 137K",
+    "rating": "4.9",
+    "latitude": "-7.6960354",
+    "longitude": "110.613706"
+  },
+  {
+    "location_id": "0x2e7a4158957bffff:0xefa518e4c71615e7",
+    "name": "Moza Guest House Syariah near Masjid AL Aqsha Klaten",
+    "price": "Rp 130K",
+    "rating": "3.0",
+    "latitude": "-7.6851824",
+    "longitude": "110.6191519"
+  },
+  {
+    "location_id": "0x2e7a43fc229c5b53:0xb25072bbd513209a",
+    "name": "Hotel Mulia",
+    "price": "Rp 270K",
+    "rating": "3.8",
+    "latitude": "-7.6959485",
+    "longitude": "110.6123312"
+  },
+  {
+    "location_id": "0x2e7a448bbee9cb27:0xdbf666112d6063a1",
+    "name": "Hotel Srikandi Gondang",
+    "price": "Rp 188K",
+    "rating": "4.1",
+    "latitude": "-7.7206735",
+    "longitude": "110.5650023"
+  },
+  {
+    "location_id": "0x2e7a440c0dfbc175:0xa55ceeaddf7a7a9b",
+    "name": "Hotel Perdana",
+    "price": "Rp 257K",
+    "rating": "4.1",
+    "latitude": "-7.7080647",
+    "longitude": "110.5978819"
+  },
+  {
+    "location_id": "0x2e7a43aa02c3bb39:0xfd3c8f6c13b145d3",
+    "name": "OYO 92454 Griya Raharja Guest House Syariah",
+    "price": "Rp 113K",
+    "rating": "3.4",
+    "latitude": "-7.6942292",
+    "longitude": "110.6162805"
+  },
+  {
+    "location_id": "0x2e7a459ee0d1bcd9:0xd94420f7921d2363",
+    "name": "Perdana kasih Hotel",
+    "price": "Rp 165K",
+    "rating": "4.1",
+    "latitude": "-7.7075315",
+    "longitude": "110.5976555"
+  },
+  {
+    "location_id": "0x2e7a45380509ea07:0x57b9f151e477c5ec",
+    "name": "OYO 92757 Ndalem Pusponyidro Syariah",
+    "price": "Rp 262K",
+    "rating": "1.0",
+    "latitude": "-7.7112217",
+    "longitude": "110.5961246"
+  },
+  {
+    "location_id": "0x2e7a4166b0b33f49:0xa820f690f8a77788",
+    "name": "Capital O 91690 Moza Guest House",
+    "price": "Rp 126K",
+    "rating": "1.8",
+    "latitude": "-7.6851464",
+    "longitude": "110.6191215"
+  },
+  {
+    "location_id": "0x2e7a410d48597f7d:0x3b868c0994d145c0",
+    "name": "Pagsis Village Hotel Klaten",
+    "price": "",
+    "rating": "4.5",
+    "latitude": "-7.6945183",
+    "longitude": "110.6215726"
+  },
+  {
+    "location_id": "0x2e7a45d8b2df031f:0x3ec46e5de89a5612",
+    "name": "Ndalem Pusponyidro - Homestay & Kost Eksklusif",
+    "price": "",
+    "rating": "4.8",
+    "latitude": "-7.7112648",
+    "longitude": "110.596065"
+  },
+  {
+    "location_id": "0x2e7a43f137063701:0x9bb64f2820419850",
+    "name": "Hotel Arjuna Klaten",
+    "price": "",
+    "rating": "2.4",
+    "latitude": "-7.6993197",
+    "longitude": "110.6009546"
+  },
+  {
+    "location_id": "0x2e7a41583e0b3181:0x70c695ac8e204eab",
+    "name": "Hotel Rochmad",
+    "price": "",
+    "rating": "3.6",
+    "latitude": "-7.689651",
+    "longitude": "110.618616"
+  },
+  {
+    "location_id": "0x2e7a452e8268d2c7:0x76bad1a574c2c289",
+    "name": "Hotel Srikandi Bypass Wahid Hasyim",
+    "price": "",
+    "rating": "3.8",
+    "latitude": "-7.7088574",
+    "longitude": "110.614604"
+  },
+  {
+    "location_id": "0x2e7a451b0969ee19:0x712b7c6970963a9a",
+    "name": "OYO Life 2546 Griya Widya Syariah",
+    "price": "",
+    "rating": "3.4",
+    "latitude": "-7.720896",
+    "longitude": "110.6040673"
+  },
+  {
+    "location_id": "0x2e7a44122f5b98c9:0xac9eb52e20505079",
+    "name": "Hotel Srikandi",
+    "price": "",
+    "rating": "3.8",
+    "latitude": "-7.7157314",
+    "longitude": "110.592531"
+  },
+  {
+    "location_id": "0x2e7a45ff6bced34f:0x264ceb213ef7efdc",
+    "name": "Queen Lody",
+    "price": "",
+    "rating": "4.4",
+    "latitude": "-7.7074257",
+    "longitude": "110.5977747"
+  },
+  {
+    "location_id": "0x2e7a4375e68c5423:0xf6d8429d7d0751df",
+    "name": "SPOT ON 90577 Griya Afifah Syariah",
+    "price": "",
+    "latitude": "-7.6953781",
+    "longitude": "110.6112281"
+  },
+  {
+    "location_id": "0x2e7bb3db3355f303:0xd82c70d83166eed4",
+    "name": "Dea Lokha HOTEL",
+    "price": "Rp 233K",
+    "rating": "4.6",
+    "latitude": "-7.956326",
+    "longitude": "110.5917719"
+  },
+  {
+    "location_id": "0x2e7a5300ca97573b:0x5703ade2415e09c8",
+    "name": "Penginapan Rudi",
+    "price": "Rp 118K",
+    "rating": "4.7",
+    "latitude": "-7.8775176",
+    "longitude": "110.4551504"
+  },
+  {
+    "location_id": "0x2e7bb33f8537c19b:0xc2a91e4b9a049c41",
+    "name": "Alzara Hotel",
+    "price": "Rp 263K",
+    "rating": "4.4",
+    "latitude": "-7.9679073",
+    "longitude": "110.5923987"
+  },
+  {
+    "location_id": "0x2e7a5175867d4143:0x95cbe3c0886403b6",
+    "name": "Villa Gunung Purba View",
+    "price": "Rp 194K",
+    "rating": "4.5",
+    "latitude": "-7.83956",
+    "longitude": "110.5201994"
+  },
+  {
+    "location_id": "0x2e7a531cc6d4a3b1:0xb92f34dfdc406846",
+    "name": "Wulenpari",
+    "price": "Rp 379K",
+    "rating": "4.5",
+    "latitude": "-7.8856773",
+    "longitude": "110.5121019"
+  },
+  {
+    "location_id": "0x2e7a51a580e04827:0xf3261d80d66e44ee",
+    "name": "Bukit Indah | Resto & Hotel",
+    "price": "Rp 216K",
+    "rating": "4.2",
+    "latitude": "-7.8446018",
+    "longitude": "110.4803258"
+  },
+  {
+    "location_id": "0x2e7bb35c696c1b6f:0x4dc04ff3f9990263",
+    "name": "Griya Limasan Hotel",
+    "price": "Rp 200K",
+    "rating": "4.3",
+    "latitude": "-7.9648727",
+    "longitude": "110.6089885"
+  },
+  {
+    "location_id": "0x2e7bb346afd03c77:0xbf49aca77bfcc850",
+    "name": "Calida Hotel",
+    "price": "Rp 186K",
+    "rating": "4.0",
+    "latitude": "-7.9638477",
+    "longitude": "110.5984187"
+  },
+  {
+    "location_id": "0x2e7bb3a1c2de940f:0x1ad3c70c601bde3c",
+    "name": "The Mulyo - Homestay",
+    "price": "Rp 222K",
+    "rating": "4.5",
+    "latitude": "-7.9942725",
+    "longitude": "110.5920867"
+  },
+  {
+    "location_id": "0x2e7bb38c373bb21f:0x19f670fbdc137bba",
+    "name": "OYO Life 3003 Wisma Handayani Syariah",
+    "price": "Rp 203K",
+    "rating": "3.9",
+    "latitude": "-7.9599503",
+    "longitude": "110.6031755"
+  },
+  {
+    "location_id": "0x2e7a4d68cc807957:0xb6ecd7a62c7d9477",
+    "name": "D'Ninetysix Inn Hotel Gunungkidul",
+    "price": "Rp 359K",
+    "rating": "5.0",
+    "latitude": "-7.9386619",
+    "longitude": "110.5756093"
+  },
+  {
+    "location_id": "0x2e7a511c4385dbdd:0xcdec52c563cb829",
+    "name": "Kebon Pring Floating Resort & Market",
+    "price": "Rp 161K",
+    "rating": "4.5",
+    "latitude": "-7.8363288",
+    "longitude": "110.4576175"
+  },
+  {
+    "location_id": "0x2e7bb3d43759130f:0x4ccae0c7fa4aa90d",
+    "name": "Kenewae Living",
+    "price": "Rp 375K",
+    "rating": "5.0",
+    "latitude": "-7.9691094",
+    "longitude": "110.6045372"
+  },
+  {
+    "location_id": "0x2e7a5111a59b1259:0x3c0e1598e72a66f7",
+    "name": "The Hill by Kamar Tamu",
+    "price": "Rp 953K",
+    "rating": "5.0",
+    "latitude": "-7.8369994",
+    "longitude": "110.4773983"
+  },
+  {
+    "location_id": "0x2e7a53828cd3eced:0x87a0debce17a6da7",
+    "name": "Bukit Lintang Sewu",
+    "price": "Rp 2,86M",
+    "rating": "4.5",
+    "latitude": "-7.9157997",
+    "longitude": "110.4366436"
+  },
+  {
+    "location_id": "0x2e7bb36c1e472de1:0xda65348bc076439d",
+    "name": "HOTEL CYKA RAYA",
+    "price": "Rp 219K",
+    "rating": "4.2",
+    "latitude": "-7.9758425",
+    "longitude": "110.5989016"
+  },
+  {
+    "location_id": "0x2e7bb3c2d01836a5:0x4af519e34e27be95",
+    "name": "OYO 2634 Griya Birowo Syariah",
+    "price": "Rp 249K",
+    "rating": "4.1",
+    "latitude": "-7.9721689",
+    "longitude": "110.6021518"
+  },
+  {
+    "location_id": "0x2e7a519b91b7bb63:0x70407f82633c8126",
+    "name": "Hotel Syariah Sakimaro",
+    "price": "Rp 222K",
+    "rating": "4.7",
+    "latitude": "-7.8348259",
+    "longitude": "110.4770202"
+  },
+  {
+    "location_id": "0x2e7a51a92699b473:0xe740b59b1076f4a6",
+    "name": "VILLA OPA DOEL",
+    "price": "Rp 2,26M",
+    "rating": "4.9",
+    "latitude": "-7.8718886",
+    "longitude": "110.4608612"
+  }
+]
